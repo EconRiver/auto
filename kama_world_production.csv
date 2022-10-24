@@ -1,0 +1,1607 @@
+1.Region,2.Region,3.Country,year,type,value
+America Total,N. America Sub-Total,Canada,2018,Cars,655896 
+America Total,N. America Sub-Total,U.S.A.,2018,Cars,2785164 
+America Total,N. America Sub-Total,Mexico,2018,Cars,1580707 
+Europe Total,EU Sub-Total,Austria,2018,Cars,144500 
+Europe Total,EU Sub-Total,Belgium,2018,Cars,265958 
+Europe Total,EU Sub-Total,Finland,2018,Cars,112104 
+Europe Total,EU Sub-Total,France,2018,Cars,1763000 
+Europe Total,EU Sub-Total,Germany,2018,Cars,5120409 
+Europe Total,EU Sub-Total,Italy,2018,Cars,673196 
+Europe Total,EU Sub-Total,Netherlands,2018,Cars,214000 
+Europe Total,EU Sub-Total,Portugal,2018,Cars,234151 
+Europe Total,EU Sub-Total,Spain,2018,Cars,2239134 
+Europe Total,EU Sub-Total,Sweden,2018,Cars,290000 
+Europe Total,EU Sub-Total,U.K.,2018,Cars,1474741 
+Europe Total,EU Sub-Total,Czech Rep.,2018,Cars,1437396 
+Europe Total,EU Sub-Total,Hungary,2018,Cars,464539 
+Europe Total,EU Sub-Total,Poland,2018,Cars,451600 
+Europe Total,EU Sub-Total,Romania,2018,Cars,476769 
+Europe Total,EU Sub-Total,Slovak Rep.,2018,Cars,1093215 
+Europe Total,EU Sub-Total,Slovenia,2018,Cars,135962 
+Europe Total,Other Europe Sub-Total,Russia,2018,Cars,1560218 
+Europe Total,Other Europe Sub-Total,Serbia,2018,Cars,56303 
+Europe Total,Other Europe Sub-Total,Ukraine,2018,Cars,5660 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2018,Cars,178667 
+Europe Total,Other Europe Sub-Total,Others,2018,Cars,40957 
+Asia Total,Asia & Pacific Sub-Total,China,2018,Cars,23529423 
+Asia Total,Asia & Pacific Sub-Total,India,2018,Cars,4067737 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2018,Cars,1055763 
+Asia Total,Asia & Pacific Sub-Total,Japan,2018,Cars,8359286 
+Asia Total,Asia & Pacific Sub-Total,Korea,2018,Cars,3661601 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2018,Cars,522392 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2018,Cars,223481 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2018,Cars,40500 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2018,Cars,190052 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2018,Cars,877015 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2018,Cars,200284 
+Asia Total,Asia & Pacific Sub-Total,Australia,2018,Cars,-
+America Total,South America Sub-Total,Argentina,2018,Cars,208573 
+America Total,South America Sub-Total,Brazil,2018,Cars,2387128 
+America Total,South America Sub-Total,Colombia,2018,Cars,121869 
+America Total,South America Sub-Total,Ecuador,2018,Cars,24000 
+America Total,South America Sub-Total,Venezuela,2018,Cars,-
+Asia Total,Middle East Sub-Total,Egypt,2018,Cars,58851 
+Asia Total,Middle East Sub-Total,Iran,2018,Cars,891786 
+Asia Total,Middle East Sub-Total,Turkey,2018,Cars,1026461 
+Africa Total,Africa Sub-Total,Morocco,2018,Cars,366773 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2018,Cars,321722 
+World Total,World Total,World Total,2018,Cars,71588943 
+America Total,N. America Sub-Total,Canada,2018,CVs,1369898 
+America Total,N. America Sub-Total,U.S.A.,2018,CVs,8512747 
+America Total,N. America Sub-Total,Mexico,2018,CVs,2517109 
+Europe Total,EU Sub-Total,Austria,2018,CVs,20400 
+Europe Total,EU Sub-Total,Belgium,2018,CVs,42535 
+Europe Total,EU Sub-Total,Finland,2018,CVs,-
+Europe Total,EU Sub-Total,France,2018,CVs,565750 
+Europe Total,EU Sub-Total,Germany,2018,CVs,515780 
+Europe Total,EU Sub-Total,Italy,2018,CVs,388891 
+Europe Total,EU Sub-Total,Netherlands,2018,CVs,89150 
+Europe Total,EU Sub-Total,Portugal,2018,CVs,60215 
+Europe Total,EU Sub-Total,Spain,2018,CVs,580431 
+Europe Total,EU Sub-Total,Sweden,2018,CVs,50200 
+Europe Total,EU Sub-Total,U.K.,2018,CVs,129857 
+Europe Total,EU Sub-Total,Czech Rep.,2018,CVs,5488 
+Europe Total,EU Sub-Total,Hungary,2018,CVs,3800 
+Europe Total,EU Sub-Total,Poland,2018,CVs,208053 
+Europe Total,EU Sub-Total,Romania,2018,CVs,-
+Europe Total,EU Sub-Total,Slovak Rep.,2018,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2018,CVs,73408 
+Europe Total,Other Europe Sub-Total,Russia,2018,CVs,204102 
+Europe Total,Other Europe Sub-Total,Serbia,2018,CVs,146 
+Europe Total,Other Europe Sub-Total,Ukraine,2018,CVs,963 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2018,CVs,42000 
+Europe Total,Other Europe Sub-Total,Others,2018,CVs,12450 
+Asia Total,Asia & Pacific Sub-Total,China,2018,CVs,4279773 
+Asia Total,Asia & Pacific Sub-Total,India,2018,CVs,1110221 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2018,CVs,287940 
+Asia Total,Asia & Pacific Sub-Total,Japan,2018,CVs,1370308 
+Asia Total,Asia & Pacific Sub-Total,Korea,2018,CVs,367104 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2018,CVs,42579 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2018,CVs,46828 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2018,CVs,39263 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2018,CVs,63189 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2018,CVs,1290679 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2018,CVs,78946 
+Asia Total,Asia & Pacific Sub-Total,Australia,2018,CVs,-
+America Total,South America Sub-Total,Argentina,2018,CVs,282376 
+America Total,South America Sub-Total,Brazil,2018,CVs,506567 
+America Total,South America Sub-Total,Colombia,2018,CVs,-
+America Total,South America Sub-Total,Ecuador,2018,CVs,10000 
+America Total,South America Sub-Total,Venezuela,2018,CVs,-
+Asia Total,Middle East Sub-Total,Egypt,2018,CVs,35622 
+Asia Total,Middle East Sub-Total,Iran,2018,CVs,64137 
+Asia Total,Middle East Sub-Total,Turkey,2018,CVs,523689 
+Africa Total,Africa Sub-Total,Morocco,2018,CVs,35312 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2018,CVs,284766 
+World Total,World Total,World Total,2018,CVs,26112672 
+America Total,N. America Sub-Total,Canada,2019,Cars,461370 
+America Total,N. America Sub-Total,U.S.A.,2019,Cars,2511711 
+America Total,N. America Sub-Total,Mexico,2019,Cars,1381919 
+Europe Total,EU Sub-Total,Austria,2019,Cars,158400 
+Europe Total,EU Sub-Total,Belgium,2019,Cars,247020 
+Europe Total,EU Sub-Total,Finland,2019,Cars,114785 
+Europe Total,EU Sub-Total,France,2019,Cars,1642001 
+Europe Total,EU Sub-Total,Germany,2019,Cars,4663749 
+Europe Total,EU Sub-Total,Italy,2019,Cars,542007 
+Europe Total,EU Sub-Total,Netherlands,2019,Cars,176100 
+Europe Total,EU Sub-Total,Portugal,2019,Cars,282142 
+Europe Total,EU Sub-Total,Spain,2019,Cars,2219767 
+Europe Total,EU Sub-Total,Sweden,2019,Cars,279000 
+Europe Total,EU Sub-Total,U.K.,2019,Cars,1259864 
+Europe Total,EU Sub-Total,Czech Rep.,2019,Cars,1427563 
+Europe Total,EU Sub-Total,Hungary,2019,Cars,529718 
+Europe Total,EU Sub-Total,Poland,2019,Cars,434700 
+Europe Total,EU Sub-Total,Romania,2019,Cars,490412 
+Europe Total,EU Sub-Total,Slovak Rep.,2019,Cars,1126902 
+Europe Total,EU Sub-Total,Slovenia,2019,Cars,199116 
+Europe Total,Other Europe Sub-Total,Russia,2019,Cars,1518978 
+Europe Total,Other Europe Sub-Total,Serbia,2019,Cars,34985 
+Europe Total,Other Europe Sub-Total,Ukraine,2019,Cars,6254 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2019,Cars,212001 
+Europe Total,Other Europe Sub-Total,Others,2019,Cars,66857 
+Asia Total,Asia & Pacific Sub-Total,China,2019,Cars,21389833 
+Asia Total,Asia & Pacific Sub-Total,India,2019,Cars,3629008 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2019,Cars,1045666 
+Asia Total,Asia & Pacific Sub-Total,Japan,2019,Cars,8328756 
+Asia Total,Asia & Pacific Sub-Total,Korea,2019,Cars,3612587 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2019,Cars,534115 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2019,Cars,156623 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2019,Cars,57238 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2019,Cars,189549 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2019,Cars,796304 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2019,Cars,215242 
+Asia Total,Asia & Pacific Sub-Total,Australia,2019,Cars,-
+America Total,South America Sub-Total,Argentina,2019,Cars,108364 
+America Total,South America Sub-Total,Brazil,2019,Cars,2448600 
+America Total,South America Sub-Total,Colombia,2019,Cars,104384 
+America Total,South America Sub-Total,Ecuador,2019,Cars,12493 
+America Total,South America Sub-Total,Venezuela,2019,Cars,-
+Asia Total,Middle East Sub-Total,Egypt,2019,Cars,43912 
+Asia Total,Middle East Sub-Total,Iran,2019,Cars,868263 
+Asia Total,Middle East Sub-Total,Turkey,2019,Cars,982642 
+Africa Total,Africa Sub-Total,Morocco,2019,Cars,368543 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2019,Cars,348665 
+World Total,World Total,World Total,2019,Cars,67228108 
+America Total,N. America Sub-Total,Canada,2019,CVs,1455215 
+America Total,N. America Sub-Total,U.S.A.,2019,CVs,8381173 
+America Total,N. America Sub-Total,Mexico,2019,CVs,2610564 
+Europe Total,EU Sub-Total,Austria,2019,CVs,21000 
+Europe Total,EU Sub-Total,Belgium,2019,CVs,38777 
+Europe Total,EU Sub-Total,Finland,2019,CVs,-
+Europe Total,EU Sub-Total,France,2019,CVs,576600 
+Europe Total,EU Sub-Total,Germany,2019,CVs,488367 
+Europe Total,EU Sub-Total,Italy,2019,CVs,372819 
+Europe Total,EU Sub-Total,Netherlands,2019,CVs,88900 
+Europe Total,EU Sub-Total,Portugal,2019,CVs,63546 
+Europe Total,EU Sub-Total,Spain,2019,CVs,602593 
+Europe Total,EU Sub-Total,Sweden,2019,CVs,50300 
+Europe Total,EU Sub-Total,U.K.,2019,CVs,121541 
+Europe Total,EU Sub-Total,Czech Rep.,2019,CVs,6398 
+Europe Total,EU Sub-Total,Hungary,2019,CVs,4000 
+Europe Total,EU Sub-Total,Poland,2019,CVs,215164 
+Europe Total,EU Sub-Total,Romania,2019,CVs,-
+Europe Total,EU Sub-Total,Slovak Rep.,2019,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2019,CVs,-
+Europe Total,Other Europe Sub-Total,Russia,2019,CVs,196190 
+Europe Total,Other Europe Sub-Total,Serbia,2019,CVs,135 
+Europe Total,Other Europe Sub-Total,Ukraine,2019,CVs,1012 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2019,CVs,59112 
+Europe Total,Other Europe Sub-Total,Others,2019,CVs,15791 
+Asia Total,Asia & Pacific Sub-Total,China,2019,CVs,4360472 
+Asia Total,Asia & Pacific Sub-Total,India,2019,CVs,895358 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2019,CVs,241182 
+Asia Total,Asia & Pacific Sub-Total,Japan,2019,CVs,1355538 
+Asia Total,Asia & Pacific Sub-Total,Korea,2019,CVs,338027 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2019,CVs,37517 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2019,CVs,30128 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2019,CVs,37856 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2019,CVs,61755 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2019,CVs,1217406 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2019,CVs,73176 
+Asia Total,Asia & Pacific Sub-Total,Australia,2019,CVs,-
+America Total,South America Sub-Total,Argentina,2019,CVs,229623 
+America Total,South America Sub-Total,Brazil,2019,CVs,502846 
+America Total,South America Sub-Total,Colombia,2019,CVs,-
+America Total,South America Sub-Total,Ecuador,2019,CVs,11211 
+America Total,South America Sub-Total,Venezuela,2019,CVs,-
+Asia Total,Middle East Sub-Total,Egypt,2019,CVs,36735 
+Asia Total,Middle East Sub-Total,Iran,2019,CVs,20000 
+Asia Total,Middle East Sub-Total,Turkey,2019,CVs,478602 
+Africa Total,Africa Sub-Total,Morocco,2019,CVs,34675 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2019,CVs,278352 
+World Total,World Total,World Total,2019,CVs,25609656 
+America Total,N. America Sub-Total,Canada,2020,Cars,327681 
+America Total,N. America Sub-Total,U.S.A.,2020,Cars,1924398 
+America Total,N. America Sub-Total,Mexico,2020,Cars,951329 
+Europe Total,EU Sub-Total,Austria,2020,Cars,109500 
+Europe Total,EU Sub-Total,Belgium,2020,Cars,237057 
+Europe Total,EU Sub-Total,Finland,2020,Cars,86270 
+Europe Total,EU Sub-Total,France,2020,Cars,919729 
+Europe Total,EU Sub-Total,Germany,2020,Cars,3515488 
+Europe Total,EU Sub-Total,Italy,2020,Cars,451826 
+Europe Total,EU Sub-Total,Netherlands,2020,Cars,127000 
+Europe Total,EU Sub-Total,Portugal,2020,Cars,211281 
+Europe Total,EU Sub-Total,Spain,2020,Cars,1792483 
+Europe Total,EU Sub-Total,Sweden,2020,Cars,249000 
+Europe Total,EU Sub-Total,U.K.,2020,Cars,889989 
+Europe Total,EU Sub-Total,Czech Rep.,2020,Cars,1152901 
+Europe Total,EU Sub-Total,Hungary,2020,Cars,445500 
+Europe Total,EU Sub-Total,Poland,2020,Cars,278900 
+Europe Total,EU Sub-Total,Romania,2020,Cars,438107 
+Europe Total,EU Sub-Total,Slovak Rep.,2020,Cars,985598 
+Europe Total,EU Sub-Total,Slovenia,2020,Cars,141715 
+Europe Total,Other Europe Sub-Total,Russia,2020,Cars,1256818 
+Europe Total,Other Europe Sub-Total,Serbia,2020,Cars,23272 
+Europe Total,Other Europe Sub-Total,Ukraine,2020,Cars,4202 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2020,Cars,219365 
+Europe Total,Other Europe Sub-Total,Others,2020,Cars,86085 
+Asia Total,Asia & Pacific Sub-Total,China,2020,Cars,19994081 
+Asia Total,Asia & Pacific Sub-Total,India,2020,Cars,2850317 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2020,Cars,551400 
+Asia Total,Asia & Pacific Sub-Total,Japan,2020,Cars,6960411 
+Asia Total,Asia & Pacific Sub-Total,Korea,2020,Cars,3211706 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2020,Cars,457755 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2020,Cars,95504 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2020,Cars,37141 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2020,Cars,180967 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2020,Cars,537633 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2020,Cars,232325 
+Asia Total,Asia & Pacific Sub-Total,Australia,2020,Cars,-
+America Total,South America Sub-Total,Argentina,2020,Cars,93001 
+America Total,South America Sub-Total,Brazil,2020,Cars,1608880 
+America Total,South America Sub-Total,Colombia,2020,Cars,62771 
+America Total,South America Sub-Total,Ecuador,2020,Cars,4298 
+America Total,South America Sub-Total,Venezuela,2020,Cars,-
+Asia Total,Middle East Sub-Total,Egypt,2020,Cars,-
+Asia Total,Middle East Sub-Total,Iran,2020,Cars,910714 
+Asia Total,Middle East Sub-Total,Turkey,2020,Cars,855043 
+Africa Total,Africa Sub-Total,Morocco,2020,Cars,221299 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2020,Cars,238216 
+World Total,World Total,World Total,2020,Cars,55928956 
+America Total,N. America Sub-Total,Canada,2020,CVs,1048446 
+America Total,N. America Sub-Total,U.S.A.,2020,CVs,6896628 
+America Total,N. America Sub-Total,Mexico,2020,CVs,2207519 
+Europe Total,EU Sub-Total,Austria,2020,CVs,15500 
+Europe Total,EU Sub-Total,Belgium,2020,CVs,30170 
+Europe Total,EU Sub-Total,Finland,2020,CVs,-
+Europe Total,EU Sub-Total,France,2020,CVs,451600 
+Europe Total,EU Sub-Total,Germany,2020,CVs,390835 
+Europe Total,EU Sub-Total,Italy,2020,CVs,325339 
+Europe Total,EU Sub-Total,Netherlands,2020,CVs,62500 
+Europe Total,EU Sub-Total,Portugal,2020,CVs,52955 
+Europe Total,EU Sub-Total,Spain,2020,CVs,475702 
+Europe Total,EU Sub-Total,Sweden,2020,CVs,36000 
+Europe Total,EU Sub-Total,U.K.,2020,CVs,97055 
+Europe Total,EU Sub-Total,Czech Rep.,2020,CVs,6250 
+Europe Total,EU Sub-Total,Hungary,2020,CVs,3400 
+Europe Total,EU Sub-Total,Poland,2020,CVs,172482 
+Europe Total,EU Sub-Total,Romania,2020,CVs,-
+Europe Total,EU Sub-Total,Slovak Rep.,2020,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2020,CVs,-
+Europe Total,Other Europe Sub-Total,Russia,2020,CVs,174818 
+Europe Total,Other Europe Sub-Total,Serbia,2020,CVs,103 
+Europe Total,Other Europe Sub-Total,Ukraine,2020,CVs,750 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2020,CVs,60715 
+Europe Total,Other Europe Sub-Total,Others,2020,CVs,20441 
+Asia Total,Asia & Pacific Sub-Total,China,2020,CVs,5250467 
+Asia Total,Asia & Pacific Sub-Total,India,2020,CVs,543178 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2020,CVs,138750 
+Asia Total,Asia & Pacific Sub-Total,Japan,2020,CVs,1107532 
+Asia Total,Asia & Pacific Sub-Total,Korea,2020,CVs,295068 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2020,CVs,27431 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2020,CVs,21871 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2020,CVs,30156 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2020,CVs,64648 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2020,CVs,889441 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2020,CVs,65632 
+Asia Total,Asia & Pacific Sub-Total,Australia,2020,CVs,-
+America Total,South America Sub-Total,Argentina,2020,CVs,179186 
+America Total,South America Sub-Total,Brazil,2020,CVs,411199 
+America Total,South America Sub-Total,Colombia,2020,CVs,-
+America Total,South America Sub-Total,Ecuador,2020,CVs,6468 
+America Total,South America Sub-Total,Venezuela,2020,CVs,-
+Asia Total,Middle East Sub-Total,Egypt,2020,CVs,-
+Asia Total,Middle East Sub-Total,Iran,2020,CVs,30000 
+Asia Total,Middle East Sub-Total,Turkey,2020,CVs,442811 
+Africa Total,Africa Sub-Total,Morocco,2020,CVs,27131 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2020,CVs,204609 
+World Total,World Total,World Total,2020,CVs,22264786 
+America Total,N. America Sub-Total,Canada,2016,Cars,803230 
+America Total,N. America Sub-Total,U.S.A.,2016,Cars,3916584 
+America Total,N. America Sub-Total,Mexico,2016,Cars,1993178 
+Europe Total,EU Sub-Total,Austria,2016,Cars,75049 
+Europe Total,EU Sub-Total,Belgium,2016,Cars,353778 
+Europe Total,EU Sub-Total,Finland,2016,Cars,47968 
+Europe Total,EU Sub-Total,France,2016,Cars,1626000 
+Europe Total,EU Sub-Total,Germany,2016,Cars,5746808 
+Europe Total,EU Sub-Total,Italy,2016,Cars,712971 
+Europe Total,EU Sub-Total,Netherlands,2016,Cars,87500 
+Europe Total,EU Sub-Total,Portugal,2016,Cars,99200 
+Europe Total,EU Sub-Total,Spain,2016,Cars,2354117 
+Europe Total,EU Sub-Total,Sweden,2016,Cars,205374 
+Europe Total,EU Sub-Total,U.K.,2016,Cars,1670288 
+Europe Total,EU Sub-Total,Czech Rep.,2016,Cars,1344182 
+Europe Total,EU Sub-Total,Hungary,2016,Cars,524705 
+Europe Total,EU Sub-Total,Poland,2016,Cars,554148 
+Europe Total,EU Sub-Total,Romania,2016,Cars,358861 
+Europe Total,EU Sub-Total,Slovak Rep.,2016,Cars,1039950 
+Europe Total,EU Sub-Total,Slovenia,2016,Cars,133559 
+Europe Total,Other Europe Sub-Total,Russia,2016,Cars,1124774 
+Europe Total,Other Europe Sub-Total,Serbia,2016,Cars,84040 
+Europe Total,Other Europe Sub-Total,Ukraine,2016,Cars,4340 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2016,Cars,68857 
+Europe Total,Other Europe Sub-Total,Others,2016,Cars,18487 
+Asia Total,Asia & Pacific Sub-Total,China,2016,Cars,13128769 
+Asia Total,Asia & Pacific Sub-Total,India,2016,Cars,3677605 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2016,Cars,1108370 
+Asia Total,Asia & Pacific Sub-Total,Japan,2016,Cars,7873886 
+Asia Total,Asia & Pacific Sub-Total,Korea,2016,Cars,3859991 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2016,Cars,503691 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2016,Cars,178718 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2016,Cars,45853 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2016,Cars,251096 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2016,Cars,805033 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2016,Cars,110434 
+Asia Total,Asia & Pacific Sub-Total,Australia,2016,Cars,142666 
+America Total,South America Sub-Total,Argentina,2016,Cars,241315 
+America Total,South America Sub-Total,Brazil,2016,Cars,1781370 
+America Total,South America Sub-Total,Colombia,2016,Cars,77946 
+America Total,South America Sub-Total,Ecuador,2016,Cars,13897 
+America Total,South America Sub-Total,Venezuela,2016,Cars,455 
+Asia Total,Middle East Sub-Total,Egypt,2016,Cars,59319 
+Asia Total,Middle East Sub-Total,Iran,2016,Cars,1074000 
+Asia Total,Middle East Sub-Total,Turkey,2016,Cars,950888 
+Africa Total,Africa Sub-Total,Morocco,2016,Cars,313868 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2016,Cars,335539 
+World Total,World Total,World Total,2016,Cars,61482657 
+America Total,N. America Sub-Total,Canada,2016,CVs,1567426 
+America Total,N. America Sub-Total,U.S.A.,2016,CVs,8263717 
+America Total,N. America Sub-Total,Mexico,2016,CVs,1607187 
+Europe Total,EU Sub-Total,Austria,2016,CVs,17400 
+Europe Total,EU Sub-Total,Belgium,2016,CVs,45450 
+Europe Total,EU Sub-Total,Finland,2016,CVs,-
+Europe Total,EU Sub-Total,France,2016,CVs,506530 
+Europe Total,EU Sub-Total,Germany,2016,CVs,464154 
+Europe Total,EU Sub-Total,Italy,2016,CVs,390334 
+Europe Total,EU Sub-Total,Netherlands,2016,CVs,77880 
+Europe Total,EU Sub-Total,Portugal,2016,CVs,43896 
+Europe Total,EU Sub-Total,Spain,2016,CVs,531805 
+Europe Total,EU Sub-Total,Sweden,2016,CVs,48200 
+Europe Total,EU Sub-Total,U.K.,2016,CVs,146334 
+Europe Total,EU Sub-Total,Czech Rep.,2016,CVs,5714 
+Europe Total,EU Sub-Total,Hungary,2016,CVs,-
+Europe Total,EU Sub-Total,Poland,2016,CVs,122194 
+Europe Total,EU Sub-Total,Romania,2016,CVs,445 
+Europe Total,EU Sub-Total,Slovak Rep.,2016,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2016,CVs,-
+Europe Total,Other Europe Sub-Total,Russia,2016,CVs,179215 
+Europe Total,Other Europe Sub-Total,Serbia,2016,CVs,960 
+Europe Total,Other Europe Sub-Total,Ukraine,2016,CVs,1158 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2016,CVs,19295 
+Europe Total,Other Europe Sub-Total,Others,2016,CVs,9681 
+Asia Total,Asia & Pacific Sub-Total,China,2016,CVs,14990025 
+Asia Total,Asia & Pacific Sub-Total,India,2016,CVs,811360 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2016,CVs,69019 
+Asia Total,Asia & Pacific Sub-Total,Japan,2016,CVs,1330816 
+Asia Total,Asia & Pacific Sub-Total,Korea,2016,CVs,368518 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2016,CVs,41562 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2016,CVs,35932 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2016,CVs,71015 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2016,CVs,58435 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2016,CVs,1139384 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2016,CVs,161399 
+Asia Total,Asia & Pacific Sub-Total,Australia,2016,CVs,13000 
+America Total,South America Sub-Total,Argentina,2016,CVs,251261 
+America Total,South America Sub-Total,Brazil,2016,CVs,393914 
+America Total,South America Sub-Total,Colombia,2016,CVs,1090 
+America Total,South America Sub-Total,Ecuador,2016,CVs,12889 
+America Total,South America Sub-Total,Venezuela,2016,CVs,2394 
+Asia Total,Middle East Sub-Total,Egypt,2016,CVs,41479 
+Asia Total,Middle East Sub-Total,Iran,2016,CVs,90710 
+Asia Total,Middle East Sub-Total,Turkey,2016,CVs,535039 
+Africa Total,Africa Sub-Total,Morocco,2016,CVs,31238 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2016,CVs,263465 
+World Total,World Total,World Total,2016,CVs,34762919 
+America Total,N. America Sub-Total,Canada,2017,Cars,751048 
+America Total,N. America Sub-Total,U.S.A.,2017,Cars,3033216 
+America Total,N. America Sub-Total,Mexico,2017,Cars,1900102 
+Europe Total,EU Sub-Total,Austria,2017,Cars,81116 
+Europe Total,EU Sub-Total,Belgium,2017,Cars,335200 
+Europe Total,EU Sub-Total,Finland,2017,Cars,91598 
+Europe Total,EU Sub-Total,France,2017,Cars,1748000 
+Europe Total,EU Sub-Total,Germany,2017,Cars,5645584 
+Europe Total,EU Sub-Total,Italy,2017,Cars,742642 
+Europe Total,EU Sub-Total,Netherlands,2017,Cars,169100 
+Europe Total,EU Sub-Total,Portugal,2017,Cars,126426 
+Europe Total,EU Sub-Total,Spain,2017,Cars,2249773 
+Europe Total,EU Sub-Total,Sweden,2017,Cars,226000 
+Europe Total,EU Sub-Total,U.K.,2017,Cars,1625990 
+Europe Total,EU Sub-Total,Czech Rep.,2017,Cars,1413881 
+Europe Total,EU Sub-Total,Hungary,2017,Cars,518324 
+Europe Total,EU Sub-Total,Poland,2017,Cars,514702 
+Europe Total,EU Sub-Total,Romania,2017,Cars,354776 
+Europe Total,EU Sub-Total,Slovak Rep.,2017,Cars,974231 
+Europe Total,EU Sub-Total,Slovenia,2017,Cars,189850 
+Europe Total,Other Europe Sub-Total,Russia,2017,Cars,1348029 
+Europe Total,Other Europe Sub-Total,Serbia,2017,Cars,74450 
+Europe Total,Other Europe Sub-Total,Ukraine,2017,Cars,7296 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2017,Cars,112975 
+Europe Total,Other Europe Sub-Total,Others,2017,Cars,20369 
+Asia Total,Asia & Pacific Sub-Total,China,2017,Cars,24806687 
+Asia Total,Asia & Pacific Sub-Total,India,2017,Cars,3949338 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2017,Cars,982356 
+Asia Total,Asia & Pacific Sub-Total,Japan,2017,Cars,8347836 
+Asia Total,Asia & Pacific Sub-Total,Korea,2017,Cars,3735399 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2017,Cars,459558 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2017,Cars,183886 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2017,Cars,55525 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2017,Cars,177318 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2017,Cars,818440 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2017,Cars,146994 
+Asia Total,Asia & Pacific Sub-Total,Australia,2017,Cars,88167 
+America Total,South America Sub-Total,Argentina,2017,Cars,203700 
+America Total,South America Sub-Total,Brazil,2017,Cars,2269468 
+America Total,South America Sub-Total,Colombia,2017,Cars,73904 
+America Total,South America Sub-Total,Ecuador,2017,Cars,19459 
+America Total,South America Sub-Total,Venezuela,2017,Cars,405 
+Asia Total,Middle East Sub-Total,Egypt,2017,Cars,46436 
+Asia Total,Middle East Sub-Total,Iran,2017,Cars,1418550 
+Asia Total,Middle East Sub-Total,Turkey,2017,Cars,1120839 
+Africa Total,Africa Sub-Total,Morocco,2017,Cars,341802 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2017,Cars,321358 
+World Total,World Total,World Total,2017,Cars,73822103 
+America Total,N. America Sub-Total,Canada,2017,CVs,1442955 
+America Total,N. America Sub-Total,U.S.A.,2017,CVs,8156769 
+America Total,N. America Sub-Total,Mexico,2017,CVs,2169287 
+Europe Total,EU Sub-Total,Austria,2017,CVs,17600 
+Europe Total,EU Sub-Total,Belgium,2017,CVs,43160 
+Europe Total,EU Sub-Total,Finland,2017,CVs,-
+Europe Total,EU Sub-Total,France,2017,CVs,530980 
+Europe Total,EU Sub-Total,Germany,2017,CVs,424683 
+Europe Total,EU Sub-Total,Italy,2017,CVs,399568 
+Europe Total,EU Sub-Total,Netherlands,2017,CVs,80450 
+Europe Total,EU Sub-Total,Portugal,2017,CVs,49118 
+Europe Total,EU Sub-Total,Spain,2017,CVs,598051 
+Europe Total,EU Sub-Total,Sweden,2017,CVs,49550 
+Europe Total,EU Sub-Total,U.K.,2017,CVs,123395 
+Europe Total,EU Sub-Total,Czech Rep.,2017,CVs,6112 
+Europe Total,EU Sub-Total,Hungary,2017,CVs,3400 
+Europe Total,EU Sub-Total,Poland,2017,CVs,170494 
+Europe Total,EU Sub-Total,Romania,2017,CVs,8911 
+Europe Total,EU Sub-Total,Slovak Rep.,2017,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2017,CVs,-
+Europe Total,Other Europe Sub-Total,Russia,2017,CVs,203264 
+Europe Total,Other Europe Sub-Total,Serbia,2017,CVs,550 
+Europe Total,Other Europe Sub-Total,Ukraine,2017,CVs,2246 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2017,CVs,27272 
+Europe Total,Other Europe Sub-Total,Others,2017,CVs,12130 
+Asia Total,Asia & Pacific Sub-Total,China,2017,CVs,4208747 
+Asia Total,Asia & Pacific Sub-Total,India,2017,CVs,830511 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2017,CVs,234259 
+Asia Total,Asia & Pacific Sub-Total,Japan,2017,CVs,1342838 
+Asia Total,Asia & Pacific Sub-Total,Korea,2017,CVs,379514 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2017,CVs,40081 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2017,CVs,66854 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2017,CVs,85727 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2017,CVs,114245 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2017,CVs,1170383 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2017,CVs,103625 
+Asia Total,Asia & Pacific Sub-Total,Australia,2017,CVs,4200 
+America Total,South America Sub-Total,Argentina,2017,CVs,268458 
+America Total,South America Sub-Total,Brazil,2017,CVs,430204 
+America Total,South America Sub-Total,Colombia,2017,CVs,1090 
+America Total,South America Sub-Total,Ecuador,2017,CVs,19760 
+America Total,South America Sub-Total,Venezuela,2017,CVs,1369 
+Asia Total,Middle East Sub-Total,Egypt,2017,CVs,26780 
+Asia Total,Middle East Sub-Total,Iran,2017,CVs,96846 
+Asia Total,Middle East Sub-Total,Turkey,2017,CVs,552825 
+Africa Total,Africa Sub-Total,Morocco,2017,CVs,34484 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2017,CVs,268593 
+World Total,World Total,World Total,2017,CVs,24801338 
+America Total,N. America Sub-Total,Canada,2013,Cars,965191 
+America Total,N. America Sub-Total,U.S.A.,2013,Cars,4368835 
+America Total,N. America Sub-Total,Mexico,2013,Cars,1771987 
+Europe Total,EU Sub-Total,Austria,2013,Cars,146566 
+Europe Total,EU Sub-Total,Belgium,2013,Cars,465504 
+Europe Total,EU Sub-Total,Finland,2013,Cars,7609 
+Europe Total,EU Sub-Total,France,2013,Cars,1458377 
+Europe Total,EU Sub-Total,Germany,2013,Cars,5439904 
+Europe Total,EU Sub-Total,Italy,2013,Cars,388465 
+Europe Total,EU Sub-Total,Netherlands,2013,Cars,-
+Europe Total,EU Sub-Total,Portugal,2013,Cars,109698 
+Europe Total,EU Sub-Total,Spain,2013,Cars,1719700 
+Europe Total,EU Sub-Total,Sweden,2013,Cars,161080 
+Europe Total,EU Sub-Total,U.K.,2013,Cars,1509762 
+Europe Total,EU Sub-Total,Czech Rep.,2013,Cars,1126386 
+Europe Total,EU Sub-Total,Hungary,2013,Cars,322117 
+Europe Total,EU Sub-Total,Poland,2013,Cars,475149 
+Europe Total,EU Sub-Total,Romania,2013,Cars,410959 
+Europe Total,EU Sub-Total,Slovak Rep.,2013,Cars,987718 
+Europe Total,EU Sub-Total,Slovenia,2013,Cars,93733 
+Europe Total,Other Europe Sub-Total,Russia,2013,Cars,1919635 
+Europe Total,Other Europe Sub-Total,Serbia,2013,Cars,73000 
+Europe Total,Other Europe Sub-Total,Ukraine,2013,Cars,45758 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2013,Cars,223799 
+Europe Total,Other Europe Sub-Total,Others,2013,Cars,40022 
+Asia Total,Asia & Pacific Sub-Total,China,2013,Cars,18084169 
+Asia Total,Asia & Pacific Sub-Total,India,2013,Cars,3181994 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2013,Cars,925066 
+Asia Total,Asia & Pacific Sub-Total,Japan,2013,Cars,8189323 
+Asia Total,Asia & Pacific Sub-Total,Korea,2013,Cars,4122604 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2013,Cars,543892 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2013,Cars,121234 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2013,Cars,26490 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2013,Cars,291037 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2013,Cars,1071076 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2013,Cars,36066 
+Asia Total,Asia & Pacific Sub-Total,Australia,2013,Cars,180773 
+America Total,South America Sub-Total,Argentina,2013,Cars,506539 
+America Total,South America Sub-Total,Brazil,2013,Cars,2954711 
+America Total,South America Sub-Total,Colombia,2013,Cars,116446 
+America Total,South America Sub-Total,Ecuador,2013,Cars,32552 
+America Total,South America Sub-Total,Venezuela,2013,Cars,37497 
+America Total,South America Sub-Total,Others,2013,Cars,10916 
+Asia Total,Middle East Sub-Total,Egypt,2013,Cars,54776 
+Asia Total,Middle East Sub-Total,Iran,2013,Cars,624749 
+Asia Total,Middle East Sub-Total,Turkey,2013,Cars,633604 
+Africa Total,Africa Sub-Total,Morocco,2013,Cars,146842 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2013,Cars,265247 
+World Total,World Total,World Total,2013,Cars,66388557 
+America Total,N. America Sub-Total,Canada,2013,CVs,1414643 
+America Total,N. America Sub-Total,U.S.A.,2013,CVs,6697597 
+America Total,N. America Sub-Total,Mexico,2013,CVs,1282862 
+Europe Total,EU Sub-Total,Austria,2013,CVs,19862 
+Europe Total,EU Sub-Total,Belgium,2013,CVs,38000 
+Europe Total,EU Sub-Total,Finland,2013,CVs,-
+Europe Total,EU Sub-Total,France,2013,CVs,325113 
+Europe Total,EU Sub-Total,Germany,2013,CVs,437418 
+Europe Total,EU Sub-Total,Italy,2013,CVs,269742 
+Europe Total,EU Sub-Total,Netherlands,2013,CVs,67390 
+Europe Total,EU Sub-Total,Portugal,2013,CVs,44318 
+Europe Total,EU Sub-Total,Spain,2013,CVs,443638 
+Europe Total,EU Sub-Total,Sweden,2013,CVs,37500 
+Europe Total,EU Sub-Total,U.K.,2013,CVs,87671 
+Europe Total,EU Sub-Total,Czech Rep.,2013,CVs,6545 
+Europe Total,EU Sub-Total,Hungary,2013,CVs,2500 
+Europe Total,EU Sub-Total,Poland,2013,CVs,112668 
+Europe Total,EU Sub-Total,Romania,2013,CVs,38 
+Europe Total,EU Sub-Total,Slovak Rep.,2013,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2013,CVs,-
+Europe Total,Other Europe Sub-Total,Russia,2013,CVs,255675 
+Europe Total,Other Europe Sub-Total,Serbia,2013,CVs,200 
+Europe Total,Other Europe Sub-Total,Ukraine,2013,CVs,4724 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2013,CVs,22842 
+Europe Total,Other Europe Sub-Total,Others,2013,CVs,24195 
+Asia Total,Asia & Pacific Sub-Total,China,2013,CVs,4032656 
+Asia Total,Asia & Pacific Sub-Total,India,2013,CVs,750531 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2013,CVs,283099 
+Asia Total,Asia & Pacific Sub-Total,Japan,2013,CVs,1440858 
+Asia Total,Asia & Pacific Sub-Total,Korea,2013,CVs,398825 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2013,CVs,57515 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2013,CVs,20911 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2013,CVs,52679 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2013,CVs,47683 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2013,CVs,1385981 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2013,CVs,60626 
+Asia Total,Asia & Pacific Sub-Total,Australia,2013,CVs,29765 
+America Total,South America Sub-Total,Argentina,2013,CVs,284468 
+America Total,South America Sub-Total,Brazil,2013,CVs,783737 
+America Total,South America Sub-Total,Colombia,2013,CVs,13101 
+America Total,South America Sub-Total,Ecuador,2013,CVs,33547 
+America Total,South America Sub-Total,Venezuela,2013,CVs,34256 
+America Total,South America Sub-Total,Others,2013,CVs,5030 
+Asia Total,Middle East Sub-Total,Egypt,2013,CVs,37414 
+Asia Total,Middle East Sub-Total,Iran,2013,CVs,112312 
+Asia Total,Middle East Sub-Total,Turkey,2013,CVs,491930 
+Africa Total,Africa Sub-Total,Morocco,2013,CVs,20610 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2013,CVs,273303 
+World Total,World Total,World Total,2013,CVs,22245978 
+America Total,N. America Sub-Total,Canada,2014,Cars,913533 
+America Total,N. America Sub-Total,U.S.A.,2014,Cars,4253098 
+America Total,N. America Sub-Total,Mexico,2014,Cars,1915709 
+Europe Total,EU Sub-Total,Austria,2014,Cars,135126 
+Europe Total,EU Sub-Total,Belgium,2014,Cars,481636 
+Europe Total,EU Sub-Total,Finland,2014,Cars,45000 
+Europe Total,EU Sub-Total,France,2014,Cars,1499471 
+Europe Total,EU Sub-Total,Germany,2014,Cars,5604026 
+Europe Total,EU Sub-Total,Italy,2014,Cars,401317 
+Europe Total,EU Sub-Total,Netherlands,2014,Cars,29000 
+Europe Total,EU Sub-Total,Portugal,2014,Cars,117744 
+Europe Total,EU Sub-Total,Spain,2014,Cars,1898342 
+Europe Total,EU Sub-Total,Sweden,2014,Cars,154174 
+Europe Total,EU Sub-Total,U.K.,2014,Cars,1528148 
+Europe Total,EU Sub-Total,Czech Rep.,2014,Cars,1244206 
+Europe Total,EU Sub-Total,Hungary,2014,Cars,431889 
+Europe Total,EU Sub-Total,Poland,2014,Cars,470914 
+Europe Total,EU Sub-Total,Romania,2014,Cars,391422 
+Europe Total,EU Sub-Total,Slovak Rep.,2014,Cars,972674 
+Europe Total,EU Sub-Total,Slovenia,2014,Cars,118591 
+Europe Total,Other Europe Sub-Total,Russia,2014,Cars,1692505 
+Europe Total,Other Europe Sub-Total,Serbia,2014,Cars,120200 
+Europe Total,Other Europe Sub-Total,Ukraine,2014,Cars,25941 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2014,Cars,206493 
+Europe Total,Other Europe Sub-Total,Others,2014,Cars,44507 
+Asia Total,Asia & Pacific Sub-Total,China,2014,Cars,19919795 
+Asia Total,Asia & Pacific Sub-Total,India,2014,Cars,3186015 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2014,Cars,1013172 
+Asia Total,Asia & Pacific Sub-Total,Japan,2014,Cars,8277070 
+Asia Total,Asia & Pacific Sub-Total,Korea,2014,Cars,4124116 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2014,Cars,545122 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2014,Cars,125820 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2014,Cars,27070 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2014,Cars,332629 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2014,Cars,742678 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2014,Cars,50074 
+Asia Total,Asia & Pacific Sub-Total,Australia,2014,Cars,149986 
+America Total,South America Sub-Total,Argentina,2014,Cars,363711 
+America Total,South America Sub-Total,Brazil,2014,Cars,2504117 
+America Total,South America Sub-Total,Colombia,2014,Cars,115640 
+America Total,South America Sub-Total,Ecuador,2014,Cars,28634 
+America Total,South America Sub-Total,Venezuela,2014,Cars,8004 
+America Total,South America Sub-Total,Others,2014,Cars,7410 
+Asia Total,Middle East Sub-Total,Egypt,2014,Cars,89477 
+Asia Total,Middle East Sub-Total,Iran,2014,Cars,958335 
+Asia Total,Middle East Sub-Total,Turkey,2014,Cars,733439 
+Africa Total,Africa Sub-Total,Morocco,2014,Cars,209999 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2014,Cars,277491 
+World Total,World Total,World Total,2014,Cars,68485470 
+America Total,N. America Sub-Total,Canada,2014,CVs,1480621 
+America Total,N. America Sub-Total,U.S.A.,2014,CVs,7407604 
+America Total,N. America Sub-Total,Mexico,2014,CVs,1452301 
+Europe Total,EU Sub-Total,Austria,2014,CVs,15600 
+Europe Total,EU Sub-Total,Belgium,2014,CVs,35195 
+Europe Total,EU Sub-Total,Finland,2014,CVs,-
+Europe Total,EU Sub-Total,France,2014,CVs,357925 
+Europe Total,EU Sub-Total,Germany,2014,CVs,447312 
+Europe Total,EU Sub-Total,Italy,2014,CVs,296547 
+Europe Total,EU Sub-Total,Netherlands,2014,CVs,65900 
+Europe Total,EU Sub-Total,Portugal,2014,CVs,43765 
+Europe Total,EU Sub-Total,Spain,2014,CVs,504636 
+Europe Total,EU Sub-Total,Sweden,2014,CVs,33800 
+Europe Total,EU Sub-Total,U.K.,2014,CVs,70731 
+Europe Total,EU Sub-Total,Czech Rep.,2014,CVs,7014 
+Europe Total,EU Sub-Total,Hungary,2014,CVs,2650 
+Europe Total,EU Sub-Total,Poland,2014,CVs,117871 
+Europe Total,EU Sub-Total,Romania,2014,CVs,12 
+Europe Total,EU Sub-Total,Slovak Rep.,2014,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2014,CVs,-
+Europe Total,Other Europe Sub-Total,Russia,2014,CVs,189591 
+Europe Total,Other Europe Sub-Total,Serbia,2014,CVs,200 
+Europe Total,Other Europe Sub-Total,Ukraine,2014,CVs,2810 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2014,CVs,39167 
+Europe Total,Other Europe Sub-Total,Others,2014,CVs,17244 
+Asia Total,Asia & Pacific Sub-Total,China,2014,CVs,3803095 
+Asia Total,Asia & Pacific Sub-Total,India,2014,CVs,692445 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2014,CVs,285351 
+Asia Total,Asia & Pacific Sub-Total,Japan,2014,CVs,1497595 
+Asia Total,Asia & Pacific Sub-Total,Korea,2014,CVs,400816 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2014,CVs,51296 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2014,CVs,22705 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2014,CVs,61775 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2014,CVs,46594 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2014,CVs,1137329 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2014,CVs,83514 
+Asia Total,Asia & Pacific Sub-Total,Australia,2014,CVs,25000 
+America Total,South America Sub-Total,Argentina,2014,CVs,254118 
+America Total,South America Sub-Total,Brazil,2014,CVs,668633 
+America Total,South America Sub-Total,Colombia,2014,CVs,18840 
+America Total,South America Sub-Total,Ecuador,2014,CVs,34055 
+America Total,South America Sub-Total,Venezuela,2014,CVs,11755 
+America Total,South America Sub-Total,Others,2014,CVs,9052 
+Asia Total,Middle East Sub-Total,Egypt,2014,CVs,55144 
+Asia Total,Middle East Sub-Total,Iran,2014,CVs,171829 
+Asia Total,Middle East Sub-Total,Turkey,2014,CVs,437006 
+Africa Total,Africa Sub-Total,Morocco,2014,CVs,21987 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2014,CVs,281550 
+World Total,World Total,World Total,2014,CVs,22659980 
+America Total,N. America Sub-Total,Canada,2015,Cars,888565 
+America Total,N. America Sub-Total,U.S.A.,2015,Cars,4162310 
+America Total,N. America Sub-Total,Mexico,2015,Cars,1968054 
+Europe Total,EU Sub-Total,Austria,2015,Cars,105035 
+Europe Total,EU Sub-Total,Belgium,2015,Cars,375574 
+Europe Total,EU Sub-Total,Finland,2015,Cars,57000 
+Europe Total,EU Sub-Total,France,2015,Cars,1570124 
+Europe Total,EU Sub-Total,Germany,2015,Cars,5708138 
+Europe Total,EU Sub-Total,Italy,2015,Cars,663139 
+Europe Total,EU Sub-Total,Netherlands,2015,Cars,57000 
+Europe Total,EU Sub-Total,Portugal,2015,Cars,115468 
+Europe Total,EU Sub-Total,Spain,2015,Cars,2202348 
+Europe Total,EU Sub-Total,Sweden,2015,Cars,188987 
+Europe Total,EU Sub-Total,U.K.,2015,Cars,1587677 
+Europe Total,EU Sub-Total,Czech Rep.,2015,Cars,1297431 
+Europe Total,EU Sub-Total,Hungary,2015,Cars,525596 
+Europe Total,EU Sub-Total,Poland,2015,Cars,534739 
+Europe Total,EU Sub-Total,Romania,2015,Cars,387343 
+Europe Total,EU Sub-Total,Slovak Rep.,2015,Cars,1038483 
+Europe Total,EU Sub-Total,Slovenia,2015,Cars,129428 
+Europe Total,Other Europe Sub-Total,Russia,2015,Cars,1215972 
+Europe Total,Other Europe Sub-Total,Serbia,2015,Cars,82400 
+Europe Total,Other Europe Sub-Total,Ukraine,2015,Cars,5654 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2015,Cars,143454 
+Europe Total,Other Europe Sub-Total,Others,2015,Cars,20922 
+Asia Total,Asia & Pacific Sub-Total,China,2015,Cars,21079427 
+Asia Total,Asia & Pacific Sub-Total,India,2015,Cars,3408963 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2015,Cars,1024160 
+Asia Total,Asia & Pacific Sub-Total,Japan,2015,Cars,7830722 
+Asia Total,Asia & Pacific Sub-Total,Korea,2015,Cars,4135108 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2015,Cars,563883 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2015,Cars,182548 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2015,Cars,36395 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2015,Cars,298418 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2015,Cars,760688 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2015,Cars,75777 
+Asia Total,Asia & Pacific Sub-Total,Australia,2015,Cars,152538 
+America Total,South America Sub-Total,Argentina,2015,Cars,308756 
+America Total,South America Sub-Total,Brazil,2015,Cars,2017831 
+America Total,South America Sub-Total,Colombia,2015,Cars,88748 
+America Total,South America Sub-Total,Ecuador,2015,Cars,21626 
+America Total,South America Sub-Total,Venezuela,2015,Cars,4615 
+America Total,South America Sub-Total,Others,2015,Cars,-
+Asia Total,Middle East Sub-Total,Egypt,2015,Cars,70925 
+Asia Total,Middle East Sub-Total,Iran,2015,Cars,892600 
+Asia Total,Middle East Sub-Total,Turkey,2015,Cars,791027 
+Africa Total,Africa Sub-Total,Morocco,2015,Cars,260129 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2015,Cars,341025 
+World Total,World Total,World Total,2015,Cars,69376750 
+America Total,N. America Sub-Total,Canada,2015,CVs,1394742 
+America Total,N. America Sub-Total,U.S.A.,2015,CVs,7943180 
+America Total,N. America Sub-Total,Mexico,2015,CVs,1597164 
+Europe Total,EU Sub-Total,Austria,2015,CVs,16500 
+Europe Total,EU Sub-Total,Belgium,2015,CVs,39782 
+Europe Total,EU Sub-Total,Finland,2015,CVs,-
+Europe Total,EU Sub-Total,France,2015,CVs,444956 
+Europe Total,EU Sub-Total,Germany,2015,CVs,478226 
+Europe Total,EU Sub-Total,Italy,2015,CVs,351084 
+Europe Total,EU Sub-Total,Netherlands,2015,CVs,75550 
+Europe Total,EU Sub-Total,Portugal,2015,CVs,41158 
+Europe Total,EU Sub-Total,Spain,2015,CVs,530853 
+Europe Total,EU Sub-Total,Sweden,2015,CVs,39000 
+Europe Total,EU Sub-Total,U.K.,2015,CVs,94479 
+Europe Total,EU Sub-Total,Czech Rep.,2015,CVs,6172 
+Europe Total,EU Sub-Total,Hungary,2015,CVs,3650 
+Europe Total,EU Sub-Total,Poland,2015,CVs,121167 
+Europe Total,EU Sub-Total,Romania,2015,CVs,10 
+Europe Total,EU Sub-Total,Slovak Rep.,2015,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2015,CVs,-
+Europe Total,Other Europe Sub-Total,Russia,2015,CVs,162706 
+Europe Total,Other Europe Sub-Total,Serbia,2015,CVs,1230 
+Europe Total,Other Europe Sub-Total,Ukraine,2015,CVs,2590 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2015,CVs,41946 
+Europe Total,Other Europe Sub-Total,Others,2015,CVs,9376 
+Asia Total,Asia & Pacific Sub-Total,China,2015,CVs,3423899 
+Asia Total,Asia & Pacific Sub-Total,India,2015,CVs,747681 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2015,CVs,74620 
+Asia Total,Asia & Pacific Sub-Total,Japan,2015,CVs,1447599 
+Asia Total,Asia & Pacific Sub-Total,Korea,2015,CVs,420849 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2015,CVs,50781 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2015,CVs,47138 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2015,CVs,62373 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2015,CVs,52667 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2015,CVs,1152314 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2015,CVs,132791 
+Asia Total,Asia & Pacific Sub-Total,Australia,2015,CVs,15000 
+America Total,South America Sub-Total,Argentina,2015,CVs,234711 
+America Total,South America Sub-Total,Brazil,2015,CVs,435791 
+America Total,South America Sub-Total,Colombia,2015,CVs,13112 
+America Total,South America Sub-Total,Ecuador,2015,CVs,27300 
+America Total,South America Sub-Total,Venezuela,2015,CVs,13685 
+America Total,South America Sub-Total,Others,2015,CVs,-
+Asia Total,Middle East Sub-Total,Egypt,2015,CVs,56083 
+Asia Total,Middle East Sub-Total,Iran,2015,CVs,84236 
+Asia Total,Middle East Sub-Total,Turkey,2015,CVs,567769 
+Africa Total,Africa Sub-Total,Morocco,2015,CVs,28200 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2015,CVs,269189 
+World Total,World Total,World Total,2015,CVs,22753309 
+America Total,N. America Sub-Total,Canada,2005,Cars,1406777 
+America Total,N. America Sub-Total,U.S.A.,2005,Cars,4321272 
+America Total,N. America Sub-Total,Mexico,2005,Cars,846048 
+Europe Total,EU Sub-Total,Austria,2005,Cars,230505 
+Europe Total,EU Sub-Total,Belgium,2005,Cars,895109 
+Europe Total,EU Sub-Total,Finland,2005,Cars,21233 
+Europe Total,EU Sub-Total,France,2005,Cars,3112961 
+Europe Total,EU Sub-Total,Germany,2005,Cars,5350187 
+Europe Total,EU Sub-Total,Italy,2005,Cars,725528 
+Europe Total,EU Sub-Total,Netherlands,2005,Cars,115121 
+Europe Total,EU Sub-Total,Portugal,2005,Cars,137602 
+Europe Total,EU Sub-Total,Spain,2005,Cars,2098168 
+Europe Total,EU Sub-Total,Sweden,2005,Cars,288659 
+Europe Total,EU Sub-Total,U.K.,2005,Cars,1596356 
+Europe Total,EU Sub-Total,Czech Rep.,2005,Cars,599472 
+Europe Total,EU Sub-Total,Hungary,2005,Cars,148533 
+Europe Total,EU Sub-Total,Poland,2005,Cars,527020 
+Europe Total,EU Sub-Total,Romania,2005,Cars,174538 
+Europe Total,EU Sub-Total,Slovak Rep.,2005,Cars,218349 
+Europe Total,EU Sub-Total,Slovenia,2005,Cars,177951 
+Europe Total,Other Europe Sub-Total,Russia,2005,Cars,1068764 
+Europe Total,Other Europe Sub-Total,Serbia,2005,Cars,-
+Europe Total,Other Europe Sub-Total,Ukraine,2005,Cars,207984 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2005,Cars,87512 
+Europe Total,Other Europe Sub-Total,Others,2005,Cars,12575 
+Asia Total,Asia & Pacific Sub-Total,China,2005,Cars,3941767 
+Asia Total,Asia & Pacific Sub-Total,India,2005,Cars,999126 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2005,Cars,332590 
+Asia Total,Asia & Pacific Sub-Total,Japan,2005,Cars,9016735 
+Asia Total,Asia & Pacific Sub-Total,Korea,2005,Cars,3357094 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2005,Cars,404571 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2005,Cars,142737 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2005,Cars,20248 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2005,Cars,323829 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2005,Cars,277603 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2005,Cars,11619 
+Asia Total,Asia & Pacific Sub-Total,Australia,2005,Cars,320258 
+America Total,South America Sub-Total,Argentina,2005,Cars,182761 
+America Total,South America Sub-Total,Brazil,2005,Cars,2011817 
+America Total,South America Sub-Total,Chile,2005,Cars,-
+America Total,South America Sub-Total,Colombia,2005,Cars,75915 
+America Total,South America Sub-Total,Ecuador,2005,Cars,43204 
+America Total,South America Sub-Total,Venezuela,2005,Cars,99571 
+America Total,South America Sub-Total,Others,2005,Cars,-
+Asia Total,Middle East Sub-Total,Egypt,2005,Cars,48197 
+Asia Total,Middle East Sub-Total,Iran,2005,Cars,841140 
+Asia Total,Middle East Sub-Total,Turkey,2005,Cars,453663 
+Africa Total,Africa Sub-Total,Morocco,2005,Cars,14618 
+Africa Total,Africa Sub-Total,Nigeria,2005,Cars,11000 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2005,Cars,324551 
+Africa Total,Africa Sub-Total,Others,2005,Cars,3000 
+World Total,World Total,World Total,2005,Cars,47625838 
+America Total,N. America Sub-Total,Canada,2005,CVs,1281115 
+America Total,N. America Sub-Total,U.S.A.,2005,CVs,7625381 
+America Total,N. America Sub-Total,Mexico,2005,CVs,839978 
+Europe Total,EU Sub-Total,Austria,2005,CVs,22681 
+Europe Total,EU Sub-Total,Belgium,2005,CVs,31419 
+Europe Total,EU Sub-Total,Finland,2005,CVs,411 
+Europe Total,EU Sub-Total,France,2005,CVs,436047 
+Europe Total,EU Sub-Total,Germany,2005,CVs,407523 
+Europe Total,EU Sub-Total,Italy,2005,CVs,312824 
+Europe Total,EU Sub-Total,Netherlands,2005,CVs,65447 
+Europe Total,EU Sub-Total,Portugal,2005,CVs,81631 
+Europe Total,EU Sub-Total,Spain,2005,CVs,654332 
+Europe Total,EU Sub-Total,Sweden,2005,CVs,34921 
+Europe Total,EU Sub-Total,U.K.,2005,CVs,206753 
+Europe Total,EU Sub-Total,Czech Rep.,2005,CVs,5458 
+Europe Total,EU Sub-Total,Hungary,2005,CVs,3482 
+Europe Total,EU Sub-Total,Poland,2005,CVs,85003 
+Europe Total,EU Sub-Total,Romania,2005,CVs,20264 
+Europe Total,EU Sub-Total,Slovak Rep.,2005,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2005,CVs,-
+Europe Total,Other Europe Sub-Total,Russia,2005,CVs,285731 
+Europe Total,Other Europe Sub-Total,Serbia,2005,CVs,-
+Europe Total,Other Europe Sub-Total,Ukraine,2005,CVs,6926 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2005,CVs,8302 
+Europe Total,Other Europe Sub-Total,Others,2005,CVs,1605 
+Asia Total,Asia & Pacific Sub-Total,China,2005,CVs,1775852 
+Asia Total,Asia & Pacific Sub-Total,India,2005,CVs,643286 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2005,CVs,168120 
+Asia Total,Asia & Pacific Sub-Total,Japan,2005,CVs,1782924 
+Asia Total,Asia & Pacific Sub-Total,Korea,2005,CVs,342256 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2005,CVs,158837 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2005,CVs,34731 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2005,CVs,32751 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2005,CVs,122516 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2005,CVs,847713 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2005,CVs,28914 
+Asia Total,Asia & Pacific Sub-Total,Australia,2005,CVs,68727 
+America Total,South America Sub-Total,Argentina,2005,CVs,136994 
+America Total,South America Sub-Total,Brazil,2005,CVs,519023 
+America Total,South America Sub-Total,Chile,2005,CVs,9489 
+America Total,South America Sub-Total,Colombia,2005,CVs,30964 
+America Total,South America Sub-Total,Ecuador,2005,CVs,189 
+America Total,South America Sub-Total,Venezuela,2005,CVs,55390 
+America Total,South America Sub-Total,Others,2005,CVs,-
+Asia Total,Middle East Sub-Total,Egypt,2005,CVs,20324 
+Asia Total,Middle East Sub-Total,Iran,2005,CVs,165915 
+Asia Total,Middle East Sub-Total,Turkey,2005,CVs,425789 
+Africa Total,Africa Sub-Total,Morocco,2005,CVs,2560 
+Africa Total,Africa Sub-Total,Nigeria,2005,CVs,990 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2005,CVs,190600 
+Africa Total,Africa Sub-Total,Others,2005,CVs,2247 
+World Total,World Total,World Total,2005,CVs,19984335 
+America Total,N. America Sub-Total,Canada,2006,Cars,1427582 
+America Total,N. America Sub-Total,U.S.A.,2006,Cars,4366996 
+America Total,N. America Sub-Total,Mexico,2006,Cars,1097619 
+Europe Total,EU Sub-Total,Austria,2006,Cars,248059 
+Europe Total,EU Sub-Total,Belgium,2006,Cars,881929 
+Europe Total,EU Sub-Total,Finland,2006,Cars,32393 
+Europe Total,EU Sub-Total,France,2006,Cars,2723240 
+Europe Total,EU Sub-Total,Germany,2006,Cars,5398508 
+Europe Total,EU Sub-Total,Italy,2006,Cars,892502 
+Europe Total,EU Sub-Total,Netherlands,2006,Cars,87332 
+Europe Total,EU Sub-Total,Portugal,2006,Cars,143478 
+Europe Total,EU Sub-Total,Spain,2006,Cars,2078639 
+Europe Total,EU Sub-Total,Sweden,2006,Cars,288583 
+Europe Total,EU Sub-Total,U.K.,2006,Cars,1442085 
+Europe Total,EU Sub-Total,Czech Rep.,2006,Cars,848923 
+Europe Total,EU Sub-Total,Hungary,2006,Cars,187633 
+Europe Total,EU Sub-Total,Poland,2006,Cars,608919 
+Europe Total,EU Sub-Total,Romania,2006,Cars,201663 
+Europe Total,EU Sub-Total,Slovak Rep.,2006,Cars,267088 
+Europe Total,EU Sub-Total,Slovenia,2006,Cars,119212 
+Europe Total,Other Europe Sub-Total,Russia,2006,Cars,1176337 
+Europe Total,Other Europe Sub-Total,Serbia,2006,Cars,-
+Europe Total,Other Europe Sub-Total,Ukraine,2006,Cars,267000 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2006,Cars,100000 
+Europe Total,Other Europe Sub-Total,Others,2006,Cars,10252 
+Asia Total,Asia & Pacific Sub-Total,China,2006,Cars,5233029 
+Asia Total,Asia & Pacific Sub-Total,India,2006,Cars,1473235 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2006,Cars,206321 
+Asia Total,Asia & Pacific Sub-Total,Japan,2006,Cars,9754903 
+Asia Total,Asia & Pacific Sub-Total,Korea,2006,Cars,3489136 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2006,Cars,377952 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2006,Cars,165089 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2006,Cars,19956 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2006,Cars,210791 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2006,Cars,298819 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2006,Cars,7480 
+Asia Total,Asia & Pacific Sub-Total,Australia,2006,Cars,297986 
+America Total,South America Sub-Total,Argentina,2006,Cars,263120 
+America Total,South America Sub-Total,Brazil,2006,Cars,2092003 
+America Total,South America Sub-Total,Chile,2006,Cars,-
+America Total,South America Sub-Total,Colombia,2006,Cars,106094 
+America Total,South America Sub-Total,Ecuador,2006,Cars,16927 
+America Total,South America Sub-Total,Venezuela,2006,Cars,103006 
+America Total,South America Sub-Total,Others,2006,Cars,-
+Asia Total,Middle East Sub-Total,Egypt,2006,Cars,59568 
+Asia Total,Middle East Sub-Total,Iran,2006,Cars,918583 
+Asia Total,Middle East Sub-Total,Turkey,2006,Cars,545682 
+Africa Total,Africa Sub-Total,Morocco,2006,Cars,27728 
+Africa Total,Africa Sub-Total,Nigeria,2006,Cars,5000 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2006,Cars,333530 
+Africa Total,Africa Sub-Total,Others,2006,Cars,2000 
+World Total,World Total,World Total,2006,Cars,50903910 
+America Total,N. America Sub-Total,Canada,2006,CVs,1143784 
+America Total,N. America Sub-Total,U.S.A.,2006,CVs,6925127 
+America Total,N. America Sub-Total,Mexico,2006,CVs,949832 
+Europe Total,EU Sub-Total,Austria,2006,CVs,26873 
+Europe Total,EU Sub-Total,Belgium,2006,CVs,36127 
+Europe Total,EU Sub-Total,Finland,2006,CVs,353 
+Europe Total,EU Sub-Total,France,2006,CVs,446023 
+Europe Total,EU Sub-Total,Germany,2006,CVs,421106 
+Europe Total,EU Sub-Total,Italy,2006,CVs,319092 
+Europe Total,EU Sub-Total,Netherlands,2006,CVs,72122 
+Europe Total,EU Sub-Total,Portugal,2006,CVs,83914 
+Europe Total,EU Sub-Total,Spain,2006,CVs,698796 
+Europe Total,EU Sub-Total,Sweden,2006,CVs,38759 
+Europe Total,EU Sub-Total,U.K.,2006,CVs,207707 
+Europe Total,EU Sub-Total,Czech Rep.,2006,CVs,5985 
+Europe Total,EU Sub-Total,Hungary,2006,CVs,2610 
+Europe Total,EU Sub-Total,Poland,2006,CVs,106310 
+Europe Total,EU Sub-Total,Romania,2006,CVs,11934 
+Europe Total,EU Sub-Total,Slovak Rep.,2006,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2006,CVs,33915 
+Europe Total,Other Europe Sub-Total,Russia,2006,CVs,330505 
+Europe Total,Other Europe Sub-Total,Serbia,2006,CVs,-
+Europe Total,Other Europe Sub-Total,Ukraine,2006,CVs,12407 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2006,CVs,10000 
+Europe Total,Other Europe Sub-Total,Others,2006,CVs,1315 
+Asia Total,Asia & Pacific Sub-Total,China,2006,CVs,2046689 
+Asia Total,Asia & Pacific Sub-Total,India,2006,CVs,485049 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2006,CVs,89687 
+Asia Total,Asia & Pacific Sub-Total,Japan,2006,CVs,1729330 
+Asia Total,Asia & Pacific Sub-Total,Korea,2006,CVs,350966 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2006,CVs,125096 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2006,CVs,40295 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2006,CVs,35950 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2006,CVs,92438 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2006,CVs,889225 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2006,CVs,33701 
+Asia Total,Asia & Pacific Sub-Total,Australia,2006,CVs,29750 
+America Total,South America Sub-Total,Argentina,2006,CVs,168981 
+America Total,South America Sub-Total,Brazil,2006,CVs,519031 
+America Total,South America Sub-Total,Chile,2006,CVs,4987 
+America Total,South America Sub-Total,Colombia,2006,CVs,30566 
+America Total,South America Sub-Total,Ecuador,2006,CVs,34836 
+America Total,South America Sub-Total,Venezuela,2006,CVs,68709 
+America Total,South America Sub-Total,Others,2006,CVs,-
+Asia Total,Middle East Sub-Total,Egypt,2006,CVs,29242 
+Asia Total,Middle East Sub-Total,Iran,2006,CVs,181072 
+Asia Total,Middle East Sub-Total,Turkey,2006,CVs,441898 
+Africa Total,Africa Sub-Total,Morocco,2006,CVs,2281 
+Africa Total,Africa Sub-Total,Nigeria,2006,CVs,1579 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2006,CVs,240769 
+Africa Total,Africa Sub-Total,Others,2006,CVs,1080 
+World Total,World Total,World Total,2006,CVs,19557803 
+America Total,N. America Sub-Total,Canada,2007,Cars,1342133 
+America Total,N. America Sub-Total,U.S.A.,2007,Cars,3924268 
+America Total,N. America Sub-Total,Mexico,2007,Cars,1209097 
+Europe Total,EU Sub-Total,Austria,2007,Cars,199969 
+Europe Total,EU Sub-Total,Belgium,2007,Cars,789674 
+Europe Total,EU Sub-Total,Finland,2007,Cars,23026 
+Europe Total,EU Sub-Total,France,2007,Cars,2550869 
+Europe Total,EU Sub-Total,Germany,2007,Cars,5709139 
+Europe Total,EU Sub-Total,Italy,2007,Cars,910860 
+Europe Total,EU Sub-Total,Netherlands,2007,Cars,61912 
+Europe Total,EU Sub-Total,Portugal,2007,Cars,134047 
+Europe Total,EU Sub-Total,Spain,2007,Cars,2195780 
+Europe Total,EU Sub-Total,Sweden,2007,Cars,316850 
+Europe Total,EU Sub-Total,U.K.,2007,Cars,1534567 
+Europe Total,EU Sub-Total,Czech Rep.,2007,Cars,925778 
+Europe Total,EU Sub-Total,Hungary,2007,Cars,292027 
+Europe Total,EU Sub-Total,Poland,2007,Cars,761993 
+Europe Total,EU Sub-Total,Romania,2007,Cars,234103 
+Europe Total,EU Sub-Total,Slovak Rep.,2007,Cars,528163 
+Europe Total,EU Sub-Total,Slovenia,2007,Cars,174209 
+Europe Total,Other Europe Sub-Total,Russia,2007,Cars,1288652 
+Europe Total,Other Europe Sub-Total,Serbia,2007,Cars,-
+Europe Total,Other Europe Sub-Total,Ukraine,2007,Cars,380008 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2007,Cars,170000 
+Europe Total,Other Europe Sub-Total,Others,2007,Cars,10658 
+Asia Total,Asia & Pacific Sub-Total,China,2007,Cars,6381115 
+Asia Total,Asia & Pacific Sub-Total,India,2007,Cars,1713479 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2007,Cars,309208 
+Asia Total,Asia & Pacific Sub-Total,Japan,2007,Cars,9944637 
+Asia Total,Asia & Pacific Sub-Total,Korea,2007,Cars,3723482 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2007,Cars,403245 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2007,Cars,175927 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2007,Cars,38923 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2007,Cars,212685 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2007,Cars,315444 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2007,Cars,17027 
+Asia Total,Asia & Pacific Sub-Total,Australia,2007,Cars,306416 
+America Total,South America Sub-Total,Argentina,2007,Cars,350735 
+America Total,South America Sub-Total,Brazil,2007,Cars,2391354 
+America Total,South America Sub-Total,Chile,2007,Cars,-
+America Total,South America Sub-Total,Colombia,2007,Cars,145046 
+America Total,South America Sub-Total,Ecuador,2007,Cars,21094 
+America Total,South America Sub-Total,Venezuela,2007,Cars,113443 
+America Total,South America Sub-Total,Others,2007,Cars,-
+Asia Total,Middle East Sub-Total,Egypt,2007,Cars,69160 
+Asia Total,Middle East Sub-Total,Iran,2007,Cars,943396 
+Asia Total,Middle East Sub-Total,Turkey,2007,Cars,634883 
+Africa Total,Africa Sub-Total,Morocco,2007,Cars,34600 
+Africa Total,Africa Sub-Total,Nigeria,2007,Cars,5000 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2007,Cars,270630 
+Africa Total,Africa Sub-Total,Others,2007,Cars,3000 
+World Total,World Total,World Total,2007,Cars,54191711 
+America Total,N. America Sub-Total,Canada,2007,CVs,1236657 
+America Total,N. America Sub-Total,U.S.A.,2007,CVs,6856461 
+America Total,N. America Sub-Total,Mexico,2007,CVs,887446 
+Europe Total,EU Sub-Total,Austria,2007,CVs,28097 
+Europe Total,EU Sub-Total,Belgium,2007,CVs,44729 
+Europe Total,EU Sub-Total,Finland,2007,CVs,303 
+Europe Total,EU Sub-Total,France,2007,CVs,464985 
+Europe Total,EU Sub-Total,Germany,2007,CVs,504321 
+Europe Total,EU Sub-Total,Italy,2007,CVs,373452 
+Europe Total,EU Sub-Total,Netherlands,2007,CVs,76766 
+Europe Total,EU Sub-Total,Portugal,2007,CVs,42195 
+Europe Total,EU Sub-Total,Spain,2007,CVs,693923 
+Europe Total,EU Sub-Total,Sweden,2007,CVs,44387 
+Europe Total,EU Sub-Total,U.K.,2007,CVs,215686 
+Europe Total,EU Sub-Total,Czech Rep.,2007,CVs,12749 
+Europe Total,EU Sub-Total,Hungary,2007,CVs,4045 
+Europe Total,EU Sub-Total,Poland,2007,CVs,112609 
+Europe Total,EU Sub-Total,Romania,2007,CVs,7609 
+Europe Total,EU Sub-Total,Slovak Rep.,2007,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2007,CVs,25978 
+Europe Total,Other Europe Sub-Total,Russia,2007,CVs,376738 
+Europe Total,Other Europe Sub-Total,Serbia,2007,CVs,-
+Europe Total,Other Europe Sub-Total,Ukraine,2007,CVs,15415 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2007,CVs,14900 
+Europe Total,Other Europe Sub-Total,Others,2007,CVs,866 
+Asia Total,Asia & Pacific Sub-Total,China,2007,CVs,2501340 
+Asia Total,Asia & Pacific Sub-Total,India,2007,CVs,540250 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2007,CVs,102430 
+Asia Total,Asia & Pacific Sub-Total,Japan,2007,CVs,1651690 
+Asia Total,Asia & Pacific Sub-Total,Korea,2007,CVs,362826 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2007,CVs,38433 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2007,CVs,28147 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2007,CVs,10569 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2007,CVs,70754 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2007,CVs,971902 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2007,CVs,63412 
+Asia Total,Asia & Pacific Sub-Total,Australia,2007,CVs,25823 
+America Total,South America Sub-Total,Argentina,2007,CVs,193912 
+America Total,South America Sub-Total,Brazil,2007,CVs,588754 
+America Total,South America Sub-Total,Chile,2007,CVs,9000 
+America Total,South America Sub-Total,Colombia,2007,CVs,36895 
+America Total,South America Sub-Total,Ecuador,2007,CVs,38196 
+America Total,South America Sub-Total,Venezuela,2007,CVs,58918 
+America Total,South America Sub-Total,Others,2007,CVs,-
+Asia Total,Middle East Sub-Total,Egypt,2007,CVs,34164 
+Asia Total,Middle East Sub-Total,Iran,2007,CVs,203309 
+Asia Total,Middle East Sub-Total,Turkey,2007,CVs,464531 
+Africa Total,Africa Sub-Total,Morocco,2007,CVs,2274 
+Africa Total,Africa Sub-Total,Nigeria,2007,CVs,1725 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2007,CVs,245730 
+Africa Total,Africa Sub-Total,Others,2007,CVs,6278 
+World Total,World Total,World Total,2007,CVs,20291579 
+America Total,N. America Sub-Total,Canada,2008,Cars,1195436 
+America Total,N. America Sub-Total,U.S.A.,2008,Cars,3731241 
+America Total,N. America Sub-Total,Mexico,2008,Cars,1217458 
+Europe Total,EU Sub-Total,Austria,2008,Cars,125436 
+Europe Total,EU Sub-Total,Belgium,2008,Cars,680149 
+Europe Total,EU Sub-Total,Finland,2008,Cars,16145 
+Europe Total,EU Sub-Total,France,2008,Cars,2145935 
+Europe Total,EU Sub-Total,Germany,2008,Cars,5532030 
+Europe Total,EU Sub-Total,Italy,2008,Cars,659221 
+Europe Total,EU Sub-Total,Netherlands,2008,Cars,59223 
+Europe Total,EU Sub-Total,Portugal,2008,Cars,132242 
+Europe Total,EU Sub-Total,Spain,2008,Cars,1943049 
+Europe Total,EU Sub-Total,Sweden,2008,Cars,252287 
+Europe Total,EU Sub-Total,U.K.,2008,Cars,1447777 
+Europe Total,EU Sub-Total,Czech Rep.,2008,Cars,933312 
+Europe Total,EU Sub-Total,Hungary,2008,Cars,342049 
+Europe Total,EU Sub-Total,Poland,2008,Cars,864174 
+Europe Total,EU Sub-Total,Romania,2008,Cars,231056 
+Europe Total,EU Sub-Total,Slovak Rep.,2008,Cars,527534 
+Europe Total,EU Sub-Total,Slovenia,2008,Cars,180233 
+Europe Total,Other Europe Sub-Total,Russia,2008,Cars,1469898 
+Europe Total,Other Europe Sub-Total,Serbia,2008,Cars,-
+Europe Total,Other Europe Sub-Total,Ukraine,2008,Cars,400799 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2008,Cars,195038 
+Europe Total,Other Europe Sub-Total,Others,2008,Cars,9818 
+Asia Total,Asia & Pacific Sub-Total,China,2008,Cars,6737745 
+Asia Total,Asia & Pacific Sub-Total,India,2008,Cars,1844062 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2008,Cars,431423 
+Asia Total,Asia & Pacific Sub-Total,Japan,2008,Cars,9928143 
+Asia Total,Asia & Pacific Sub-Total,Korea,2008,Cars,3450478 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2008,Cars,484512 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2008,Cars,126268 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2008,Cars,46458 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2008,Cars,138709 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2008,Cars,401309 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2008,Cars,23549 
+Asia Total,Asia & Pacific Sub-Total,Australia,2008,Cars,285590 
+America Total,South America Sub-Total,Argentina,2008,Cars,399577 
+America Total,South America Sub-Total,Brazil,2008,Cars,2545729 
+America Total,South America Sub-Total,Chile,2008,Cars,-
+America Total,South America Sub-Total,Colombia,2008,Cars,91785 
+America Total,South America Sub-Total,Ecuador,2008,Cars,20929 
+America Total,South America Sub-Total,Venezuela,2008,Cars,78327 
+America Total,South America Sub-Total,Others,2008,Cars,-
+Asia Total,Middle East Sub-Total,Egypt,2008,Cars,72485 
+Asia Total,Middle East Sub-Total,Iran,2008,Cars,1057507 
+Asia Total,Middle East Sub-Total,Turkey,2008,Cars,621567 
+Africa Total,Africa Sub-Total,Morocco,2008,Cars,32056 
+Africa Total,Africa Sub-Total,Nigeria,2008,Cars,2040 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2008,Cars,309534 
+Africa Total,Africa Sub-Total,Others,2008,Cars,-
+World Total,World Total,World Total,2008,Cars,53421322 
+America Total,N. America Sub-Total,Canada,2008,CVs,886805 
+America Total,N. America Sub-Total,U.S.A.,2008,CVs,4940900 
+America Total,N. America Sub-Total,Mexico,2008,CVs,952313 
+Europe Total,EU Sub-Total,Austria,2008,CVs,25441 
+Europe Total,EU Sub-Total,Belgium,2008,CVs,44367 
+Europe Total,EU Sub-Total,Finland,2008,CVs,376 
+Europe Total,EU Sub-Total,France,2008,CVs,423043 
+Europe Total,EU Sub-Total,Germany,2008,CVs,513700 
+Europe Total,EU Sub-Total,Italy,2008,CVs,364553 
+Europe Total,EU Sub-Total,Netherlands,2008,CVs,73271 
+Europe Total,EU Sub-Total,Portugal,2008,CVs,42913 
+Europe Total,EU Sub-Total,Spain,2008,CVs,598595 
+Europe Total,EU Sub-Total,Sweden,2008,CVs,46310 
+Europe Total,EU Sub-Total,U.K.,2008,CVs,201716 
+Europe Total,EU Sub-Total,Czech Rep.,2008,CVs,12510 
+Europe Total,EU Sub-Total,Hungary,2008,CVs,3730 
+Europe Total,EU Sub-Total,Poland,2008,CVs,141533 
+Europe Total,EU Sub-Total,Romania,2008,CVs,14252 
+Europe Total,EU Sub-Total,Slovak Rep.,2008,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2008,CVs,17610 
+Europe Total,Other Europe Sub-Total,Russia,2008,CVs,323720 
+Europe Total,Other Europe Sub-Total,Serbia,2008,CVs,-
+Europe Total,Other Europe Sub-Total,Ukraine,2008,CVs,22334 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2008,CVs,13000 
+Europe Total,Other Europe Sub-Total,Others,2008,CVs,901 
+Asia Total,Asia & Pacific Sub-Total,China,2008,CVs,2561435 
+Asia Total,Asia & Pacific Sub-Total,India,2008,CVs,486277 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2008,CVs,169205 
+Asia Total,Asia & Pacific Sub-Total,Japan,2008,CVs,1647501 
+Asia Total,Asia & Pacific Sub-Total,Korea,2008,CVs,376204 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2008,CVs,46298 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2008,CVs,29705 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2008,CVs,7976 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2008,CVs,44260 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2008,CVs,992433 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2008,CVs,88401 
+Asia Total,Asia & Pacific Sub-Total,Australia,2008,CVs,38528 
+America Total,South America Sub-Total,Argentina,2008,CVs,197509 
+America Total,South America Sub-Total,Brazil,2008,CVs,670247 
+America Total,South America Sub-Total,Chile,2008,CVs,4405 
+America Total,South America Sub-Total,Colombia,2008,CVs,24606 
+America Total,South America Sub-Total,Ecuador,2008,CVs,50281 
+America Total,South America Sub-Total,Venezuela,2008,CVs,56715 
+America Total,South America Sub-Total,Others,2008,CVs,-
+Asia Total,Middle East Sub-Total,Egypt,2008,CVs,42297 
+Asia Total,Middle East Sub-Total,Iran,2008,CVs,243486 
+Asia Total,Middle East Sub-Total,Turkey,2008,CVs,525543 
+Africa Total,Africa Sub-Total,Morocco,2008,CVs,9180 
+Africa Total,Africa Sub-Total,Nigeria,2008,CVs,0 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2008,CVs,230064 
+Africa Total,Africa Sub-Total,Others,2008,CVs,4615 
+World Total,World Total,World Total,2008,CVs,18211064 
+America Total,N. America Sub-Total,Canada,2009,Cars,822267 
+America Total,N. America Sub-Total,U.S.A.,2009,Cars,2195588 
+America Total,N. America Sub-Total,Mexico,2009,Cars,1009914 
+Europe Total,EU Sub-Total,Austria,2009,Cars,56620 
+Europe Total,EU Sub-Total,Belgium,2009,Cars,524595 
+Europe Total,EU Sub-Total,Finland,2009,Cars,10414 
+Europe Total,EU Sub-Total,France,2009,Cars,1819462 
+Europe Total,EU Sub-Total,Germany,2009,Cars,4964523 
+Europe Total,EU Sub-Total,Italy,2009,Cars,661100 
+Europe Total,EU Sub-Total,Netherlands,2009,Cars,50620 
+Europe Total,EU Sub-Total,Portugal,2009,Cars,101680 
+Europe Total,EU Sub-Total,Spain,2009,Cars,1812688 
+Europe Total,EU Sub-Total,Sweden,2009,Cars,128738 
+Europe Total,EU Sub-Total,U.K.,2009,Cars,999435 
+Europe Total,EU Sub-Total,Czech Rep.,2009,Cars,967760 
+Europe Total,EU Sub-Total,Hungary,2009,Cars,212773 
+Europe Total,EU Sub-Total,Poland,2009,Cars,833314 
+Europe Total,EU Sub-Total,Romania,2009,Cars,279320 
+Europe Total,EU Sub-Total,Slovak Rep.,2009,Cars,433954 
+Europe Total,EU Sub-Total,Slovenia,2009,Cars,202570 
+Europe Total,Other Europe Sub-Total,Russia,2009,Cars,599265 
+Europe Total,Other Europe Sub-Total,Serbia,2009,Cars,-
+Europe Total,Other Europe Sub-Total,Ukraine,2009,Cars,65646 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2009,Cars,205011 
+Europe Total,Other Europe Sub-Total,Others,2009,Cars,16498 
+Asia Total,Asia & Pacific Sub-Total,China,2009,Cars,10383831 
+Asia Total,Asia & Pacific Sub-Total,India,2009,Cars,2175220 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2009,Cars,352172 
+Asia Total,Asia & Pacific Sub-Total,Japan,2009,Cars,6862161 
+Asia Total,Asia & Pacific Sub-Total,Korea,2009,Cars,3158417 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2009,Cars,447002 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2009,Cars,92552 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2009,Cars,-
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2009,Cars,183986 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2009,Cars,313442 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2009,Cars,34656 
+Asia Total,Asia & Pacific Sub-Total,Australia,2009,Cars,188158 
+America Total,South America Sub-Total,Argentina,2009,Cars,380815 
+America Total,South America Sub-Total,Brazil,2009,Cars,2575418 
+America Total,South America Sub-Total,Chile,2009,Cars,-
+America Total,South America Sub-Total,Colombia,2009,Cars,76425 
+America Total,South America Sub-Total,Ecuador,2009,Cars,18225 
+America Total,South America Sub-Total,Venezuela,2009,Cars,58579 
+America Total,South America Sub-Total,Others,2009,Cars,2181 
+Asia Total,Middle East Sub-Total,Egypt,2009,Cars,60249 
+Asia Total,Middle East Sub-Total,Iran,2009,Cars,1184050 
+Asia Total,Middle East Sub-Total,Turkey,2009,Cars,510931 
+Africa Total,Africa Sub-Total,Morocco,2009,Cars,37573 
+Africa Total,Africa Sub-Total,Nigeria,2009,Cars,96 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2009,Cars,222663 
+Africa Total,Africa Sub-Total,Others,2009,Cars,-
+World Total,World Total,World Total,2009,Cars,48292557 
+America Total,N. America Sub-Total,Canada,2009,CVs,668215 
+America Total,N. America Sub-Total,U.S.A.,2009,CVs,3513843 
+America Total,N. America Sub-Total,Mexico,2009,CVs,554255 
+Europe Total,EU Sub-Total,Austria,2009,CVs,15714 
+Europe Total,EU Sub-Total,Belgium,2009,CVs,12759 
+Europe Total,EU Sub-Total,Finland,2009,CVs,64 
+Europe Total,EU Sub-Total,France,2009,CVs,228196 
+Europe Total,EU Sub-Total,Germany,2009,CVs,245020 
+Europe Total,EU Sub-Total,Italy,2009,CVs,182139 
+Europe Total,EU Sub-Total,Netherlands,2009,CVs,26131 
+Europe Total,EU Sub-Total,Portugal,2009,CVs,24335 
+Europe Total,EU Sub-Total,Spain,2009,CVs,357390 
+Europe Total,EU Sub-Total,Sweden,2009,CVs,23388 
+Europe Total,EU Sub-Total,U.K.,2009,CVs,90500 
+Europe Total,EU Sub-Total,Czech Rep.,2009,CVs,6809 
+Europe Total,EU Sub-Total,Hungary,2009,CVs,2040 
+Europe Total,EU Sub-Total,Poland,2009,CVs,73762 
+Europe Total,EU Sub-Total,Romania,2009,CVs,17178 
+Europe Total,EU Sub-Total,Slovak Rep.,2009,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2009,CVs,10179 
+Europe Total,Other Europe Sub-Total,Russia,2009,CVs,126064 
+Europe Total,Other Europe Sub-Total,Serbia,2009,CVs,-
+Europe Total,Other Europe Sub-Total,Ukraine,2009,CVs,3649 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2009,CVs,-
+Europe Total,Other Europe Sub-Total,Others,2009,CVs,13372 
+Asia Total,Asia & Pacific Sub-Total,China,2009,CVs,3407163 
+Asia Total,Asia & Pacific Sub-Total,India,2009,CVs,466330 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2009,CVs,112644 
+Asia Total,Asia & Pacific Sub-Total,Japan,2009,CVs,1071896 
+Asia Total,Asia & Pacific Sub-Total,Korea,2009,CVs,354509 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2009,CVs,42267 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2009,CVs,16874 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2009,CVs,-
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2009,CVs,42370 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2009,CVs,685936 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2009,CVs,84803 
+Asia Total,Asia & Pacific Sub-Total,Australia,2009,CVs,35196 
+America Total,South America Sub-Total,Argentina,2009,CVs,132109 
+America Total,South America Sub-Total,Brazil,2009,CVs,607505 
+America Total,South America Sub-Total,Chile,2009,CVs,-
+America Total,South America Sub-Total,Colombia,2009,CVs,11917 
+America Total,South America Sub-Total,Ecuador,2009,CVs,37336 
+America Total,South America Sub-Total,Venezuela,2009,CVs,53076 
+America Total,South America Sub-Total,Others,2009,CVs,296 
+Asia Total,Middle East Sub-Total,Egypt,2009,CVs,31733 
+Asia Total,Middle East Sub-Total,Iran,2009,CVs,231732 
+Asia Total,Middle East Sub-Total,Turkey,2009,CVs,358674 
+Africa Total,Africa Sub-Total,Morocco,2009,CVs,9106 
+Africa Total,Africa Sub-Total,Nigeria,2009,CVs,-
+Africa Total,Africa Sub-Total,S. Africa Rep.,2009,CVs,144918 
+Africa Total,Africa Sub-Total,Others,2009,CVs,3030 
+World Total,World Total,World Total,2009,CVs,14136422 
+America Total,N. America Sub-Total,Canada,2010,Cars,967077 
+America Total,N. America Sub-Total,U.S.A.,2010,Cars,2731105 
+America Total,N. America Sub-Total,Mexico,2010,Cars,1468967 
+Europe Total,EU Sub-Total,Austria,2010,Cars,86183 
+Europe Total,EU Sub-Total,Belgium,2010,Cars,528996 
+Europe Total,EU Sub-Total,Finland,2010,Cars,6385 
+Europe Total,EU Sub-Total,France,2010,Cars,1924131 
+Europe Total,EU Sub-Total,Germany,2010,Cars,5552409 
+Europe Total,EU Sub-Total,Italy,2010,Cars,573169 
+Europe Total,EU Sub-Total,Netherlands,2010,Cars,48025 
+Europe Total,EU Sub-Total,Portugal,2010,Cars,114563 
+Europe Total,EU Sub-Total,Spain,2010,Cars,1913513 
+Europe Total,EU Sub-Total,Sweden,2010,Cars,177084 
+Europe Total,EU Sub-Total,U.K.,2010,Cars,1274291 
+Europe Total,EU Sub-Total,Czech Rep.,2010,Cars,1069518 
+Europe Total,EU Sub-Total,Hungary,2010,Cars,208571 
+Europe Total,EU Sub-Total,Poland,2010,Cars,799255 
+Europe Total,EU Sub-Total,Romania,2010,Cars,323587 
+Europe Total,EU Sub-Total,Slovak Rep.,2010,Cars,561933 
+Europe Total,EU Sub-Total,Slovenia,2010,Cars,211323 
+Europe Total,Other Europe Sub-Total,Russia,2010,Cars,1207544 
+Europe Total,Other Europe Sub-Total,Serbia,2010,Cars,-
+Europe Total,Other Europe Sub-Total,Ukraine,2010,Cars,75331 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2010,Cars,196833 
+Europe Total,Other Europe Sub-Total,Others,2010,Cars,17727 
+Asia Total,Asia & Pacific Sub-Total,China,2010,Cars,13897083 
+Asia Total,Asia & Pacific Sub-Total,India,2010,Cars,2831543 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2010,Cars,496524 
+Asia Total,Asia & Pacific Sub-Total,Japan,2010,Cars,8310362 
+Asia Total,Asia & Pacific Sub-Total,Korea,2010,Cars,3866206 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2010,Cars,522568 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2010,Cars,130625 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2010,Cars,33161 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2010,Cars,251490 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2010,Cars,554387 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2010,Cars,33469 
+Asia Total,Asia & Pacific Sub-Total,Australia,2010,Cars,205334 
+America Total,South America Sub-Total,Argentina,2010,Cars,508401 
+America Total,South America Sub-Total,Brazil,2010,Cars,2825974 
+America Total,South America Sub-Total,Chile,2010,Cars,-
+America Total,South America Sub-Total,Colombia,2010,Cars,106862 
+America Total,South America Sub-Total,Ecuador,2010,Cars,26564 
+America Total,South America Sub-Total,Venezuela,2010,Cars,60810 
+America Total,South America Sub-Total,Others,2010,Cars,7001 
+Asia Total,Middle East Sub-Total,Egypt,2010,Cars,76412 
+Asia Total,Middle East Sub-Total,Iran,2010,Cars,1348909 
+Asia Total,Middle East Sub-Total,Turkey,2010,Cars,603394 
+Africa Total,Africa Sub-Total,Morocco,2010,Cars,35546 
+Africa Total,Africa Sub-Total,Nigeria,2010,Cars,0 
+Africa Total,Africa Sub-Total,S. Africa Rep.,2010,Cars,293066 
+Africa Total,Africa Sub-Total,Others,2010,Cars,-
+World Total,World Total,World Total,2010,Cars,59063211 
+America Total,N. America Sub-Total,Canada,2010,CVs,1101112 
+America Total,N. America Sub-Total,U.S.A.,2010,CVs,5011988 
+America Total,N. America Sub-Total,Mexico,2010,CVs,878555 
+Europe Total,EU Sub-Total,Austria,2010,CVs,18814 
+Europe Total,EU Sub-Total,Belgium,2010,CVs,26306 
+Europe Total,EU Sub-Total,Finland,2010,CVs,280 
+Europe Total,EU Sub-Total,France,2010,CVs,305250 
+Europe Total,EU Sub-Total,Germany,2010,CVs,353576 
+Europe Total,EU Sub-Total,Italy,2010,CVs,265017 
+Europe Total,EU Sub-Total,Netherlands,2010,CVs,46107 
+Europe Total,EU Sub-Total,Portugal,2010,CVs,44160 
+Europe Total,EU Sub-Total,Spain,2010,CVs,474387 
+Europe Total,EU Sub-Total,Sweden,2010,CVs,31343 
+Europe Total,EU Sub-Total,U.K.,2010,CVs,119200 
+Europe Total,EU Sub-Total,Czech Rep.,2010,CVs,6867 
+Europe Total,EU Sub-Total,Hungary,2010,CVs,2890 
+Europe Total,EU Sub-Total,Poland,2010,CVs,95552 
+Europe Total,EU Sub-Total,Romania,2010,CVs,27325 
+Europe Total,EU Sub-Total,Slovak Rep.,2010,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2010,CVs,-
+Europe Total,Other Europe Sub-Total,Russia,2010,CVs,198298 
+Europe Total,Other Europe Sub-Total,Serbia,2010,CVs,-
+Europe Total,Other Europe Sub-Total,Ukraine,2010,CVs,7749 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2010,CVs,20900 
+Europe Total,Other Europe Sub-Total,Others,2010,CVs,1189 
+Asia Total,Asia & Pacific Sub-Total,China,2010,CVs,4367678 
+Asia Total,Asia & Pacific Sub-Total,India,2010,CVs,725531 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2010,CVs,205984 
+Asia Total,Asia & Pacific Sub-Total,Japan,2010,CVs,1318513 
+Asia Total,Asia & Pacific Sub-Total,Korea,2010,CVs,405535 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2010,CVs,45147 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2010,CVs,22345 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2010,CVs,47316 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2010,CVs,51966 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2010,CVs,1090917 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2010,CVs,78755 
+Asia Total,Asia & Pacific Sub-Total,Australia,2010,CVs,34109 
+America Total,South America Sub-Total,Argentina,2010,CVs,208139 
+America Total,South America Sub-Total,Brazil,2010,CVs,820574 
+America Total,South America Sub-Total,Chile,2010,CVs,-
+America Total,South America Sub-Total,Colombia,2010,CVs,19769 
+America Total,South America Sub-Total,Ecuador,2010,CVs,49688 
+America Total,South America Sub-Total,Venezuela,2010,CVs,43547 
+America Total,South America Sub-Total,Others,2010,CVs,359 
+Asia Total,Middle East Sub-Total,Egypt,2010,CVs,40271 
+Asia Total,Middle East Sub-Total,Iran,2010,CVs,248490 
+Asia Total,Middle East Sub-Total,Turkey,2010,CVs,491163 
+Africa Total,Africa Sub-Total,Morocco,2010,CVs,6520 
+Africa Total,Africa Sub-Total,Nigeria,2010,CVs,-
+Africa Total,Africa Sub-Total,S. Africa Rep.,2010,CVs,169501 
+Africa Total,Africa Sub-Total,Others,2010,CVs,-
+World Total,World Total,World Total,2010,CVs,19528682 
+America Total,N. America Sub-Total,Canada,2011,Cars,990482 
+America Total,N. America Sub-Total,U.S.A.,2011,Cars,2977711 
+America Total,N. America Sub-Total,Mexico,2011,Cars,1657080 
+Europe Total,EU Sub-Total,Austria,2011,Cars,130343 
+Europe Total,EU Sub-Total,Belgium,2011,Cars,560779 
+Europe Total,EU Sub-Total,Finland,2011,Cars,2527 
+Europe Total,EU Sub-Total,France,2011,Cars,1914399 
+Europe Total,EU Sub-Total,Germany,2011,Cars,5871918 
+Europe Total,EU Sub-Total,Italy,2011,Cars,485606 
+Europe Total,EU Sub-Total,Netherlands,2011,Cars,40772 
+Europe Total,EU Sub-Total,Portugal,2011,Cars,141779 
+Europe Total,EU Sub-Total,Spain,2011,Cars,1845994 
+Europe Total,EU Sub-Total,Sweden,2011,Cars,188969 
+Europe Total,EU Sub-Total,U.K.,2011,Cars,1343794 
+Europe Total,EU Sub-Total,Czech Rep.,2011,Cars,1191968 
+Europe Total,EU Sub-Total,Hungary,2011,Cars,211218 
+Europe Total,EU Sub-Total,Poland,2011,Cars,722285 
+Europe Total,EU Sub-Total,Romania,2011,Cars,310243 
+Europe Total,EU Sub-Total,Slovak Rep.,2011,Cars,704370 
+Europe Total,EU Sub-Total,Slovenia,2011,Cars,174127 
+Europe Total,Other Europe Sub-Total,Russia,2011,Cars,1744097 
+Europe Total,Other Europe Sub-Total,Serbia,2011,Cars,10227 
+Europe Total,Other Europe Sub-Total,Ukraine,2011,Cars,97580 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2011,Cars,201251 
+Europe Total,Other Europe Sub-Total,Others,2011,Cars,8425 
+Asia Total,Asia & Pacific Sub-Total,China,2011,Cars,14485326 
+Asia Total,Asia & Pacific Sub-Total,India,2011,Cars,3046206 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2011,Cars,561863 
+Asia Total,Asia & Pacific Sub-Total,Japan,2011,Cars,7158525 
+Asia Total,Asia & Pacific Sub-Total,Korea,2011,Cars,4221617 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2011,Cars,488261 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2011,Cars,139700 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2011,Cars,24591 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2011,Cars,288523 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2011,Cars,537987 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2011,Cars,41429 
+Asia Total,Asia & Pacific Sub-Total,Australia,2011,Cars,189503 
+America Total,South America Sub-Total,Argentina,2011,Cars,577233 
+America Total,South America Sub-Total,Brazil,2011,Cars,2505241 
+America Total,South America Sub-Total,Chile,2011,Cars,-
+America Total,South America Sub-Total,Colombia,2011,Cars,132485 
+America Total,South America Sub-Total,Ecuador,2011,Cars,27228 
+America Total,South America Sub-Total,Venezuela,2011,Cars,58032 
+America Total,South America Sub-Total,Others,2011,Cars,5767 
+Asia Total,Middle East Sub-Total,Egypt,2011,Cars,53072 
+Asia Total,Middle East Sub-Total,Iran,2011,Cars,1407827 
+Asia Total,Middle East Sub-Total,Turkey,2011,Cars,639734 
+Africa Total,Africa Sub-Total,Morocco,2011,Cars,54638 
+Africa Total,Africa Sub-Total,Nigeria,2011,Cars,-
+Africa Total,Africa Sub-Total,S. Africa Rep.,2011,Cars,305108 
+Africa Total,Africa Sub-Total,Others,2011,Cars,-
+World Total,World Total,World Total,2011,Cars,60477840 
+America Total,N. America Sub-Total,Canada,2011,CVs,1144639 
+America Total,N. America Sub-Total,U.S.A.,2011,CVs,5684544 
+America Total,N. America Sub-Total,Mexico,2011,CVs,1023970 
+Europe Total,EU Sub-Total,Austria,2011,CVs,22162 
+Europe Total,EU Sub-Total,Belgium,2011,CVs,34305 
+Europe Total,EU Sub-Total,Finland,2011,CVs,-
+Europe Total,EU Sub-Total,France,2011,CVs,363376 
+Europe Total,EU Sub-Total,Germany,2011,CVs,429661 
+Europe Total,EU Sub-Total,Italy,2011,CVs,304742 
+Europe Total,EU Sub-Total,Netherlands,2011,CVs,69611 
+Europe Total,EU Sub-Total,Portugal,2011,CVs,50463 
+Europe Total,EU Sub-Total,Spain,2011,CVs,514614 
+Europe Total,EU Sub-Total,Sweden,2011,CVs,41460 
+Europe Total,EU Sub-Total,U.K.,2011,CVs,120189 
+Europe Total,EU Sub-Total,Czech Rep.,2011,CVs,7866 
+Europe Total,EU Sub-Total,Hungary,2011,CVs,2303 
+Europe Total,EU Sub-Total,Poland,2011,CVs,113569 
+Europe Total,EU Sub-Total,Romania,2011,CVs,24989 
+Europe Total,EU Sub-Total,Slovak Rep.,2011,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2011,CVs,-
+Europe Total,Other Europe Sub-Total,Russia,2011,CVs,246945 
+Europe Total,Other Europe Sub-Total,Serbia,2011,CVs,796 
+Europe Total,Other Europe Sub-Total,Ukraine,2011,CVs,7065 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2011,CVs,20771 
+Europe Total,Other Europe Sub-Total,Others,2011,CVs,26336 
+Asia Total,Asia & Pacific Sub-Total,China,2011,CVs,3933550 
+Asia Total,Asia & Pacific Sub-Total,India,2011,CVs,887267 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2011,CVs,276085 
+Asia Total,Asia & Pacific Sub-Total,Japan,2011,CVs,1240105 
+Asia Total,Asia & Pacific Sub-Total,Korea,2011,CVs,435477 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2011,CVs,45254 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2011,CVs,22688 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2011,CVs,40315 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2011,CVs,54773 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2011,CVs,919808 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2011,CVs,69687 
+Asia Total,Asia & Pacific Sub-Total,Australia,2011,CVs,29873 
+America Total,South America Sub-Total,Argentina,2011,CVs,251538 
+America Total,South America Sub-Total,Brazil,2011,CVs,937546 
+America Total,South America Sub-Total,Chile,2011,CVs,-
+America Total,South America Sub-Total,Colombia,2011,CVs,21806 
+America Total,South America Sub-Total,Ecuador,2011,CVs,48515 
+America Total,South America Sub-Total,Venezuela,2011,CVs,44377 
+America Total,South America Sub-Total,Others,2011,CVs,8104 
+Asia Total,Middle East Sub-Total,Egypt,2011,CVs,28659 
+Asia Total,Middle East Sub-Total,Iran,2011,CVs,233709 
+Asia Total,Middle East Sub-Total,Turkey,2011,CVs,549397 
+Africa Total,Africa Sub-Total,Morocco,2011,CVs,4839 
+Africa Total,Africa Sub-Total,Nigeria,2011,CVs,-
+Africa Total,Africa Sub-Total,S. Africa Rep.,2011,CVs,211240 
+Africa Total,Africa Sub-Total,Others,2011,CVs,-
+World Total,World Total,World Total,2011,CVs,20548988 
+America Total,N. America Sub-Total,Canada,2012,Cars,1040298 
+America Total,N. America Sub-Total,U.S.A.,2012,Cars,4109013 
+America Total,N. America Sub-Total,Mexico,2012,Cars,1810007 
+Europe Total,EU Sub-Total,Austria,2012,Cars,123602 
+Europe Total,EU Sub-Total,Belgium,2012,Cars,504616 
+Europe Total,EU Sub-Total,Finland,2012,Cars,1254 
+Europe Total,EU Sub-Total,France,2012,Cars,1682814 
+Europe Total,EU Sub-Total,Germany,2012,Cars,5388459 
+Europe Total,EU Sub-Total,Italy,2012,Cars,396817 
+Europe Total,EU Sub-Total,Netherlands,2012,Cars,24895 
+Europe Total,EU Sub-Total,Portugal,2012,Cars,115735 
+Europe Total,EU Sub-Total,Spain,2012,Cars,1539680 
+Europe Total,EU Sub-Total,Sweden,2012,Cars,162814 
+Europe Total,EU Sub-Total,U.K.,2012,Cars,1464906 
+Europe Total,EU Sub-Total,Czech Rep.,2012,Cars,1171774 
+Europe Total,EU Sub-Total,Hungary,2012,Cars,229588 
+Europe Total,EU Sub-Total,Poland,2012,Cars,533918 
+Europe Total,EU Sub-Total,Romania,2012,Cars,326556 
+Europe Total,EU Sub-Total,Slovak Rep.,2012,Cars,927188 
+Europe Total,EU Sub-Total,Slovenia,2012,Cars,130949 
+Europe Total,Other Europe Sub-Total,Russia,2012,Cars,1968789 
+Europe Total,Other Europe Sub-Total,Serbia,2012,Cars,25281 
+Europe Total,Other Europe Sub-Total,Ukraine,2012,Cars,69687 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2012,Cars,210921 
+Europe Total,Other Europe Sub-Total,Others,2012,Cars,30121 
+Asia Total,Asia & Pacific Sub-Total,China,2012,Cars,15523658 
+Asia Total,Asia & Pacific Sub-Total,India,2012,Cars,3321340 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2012,Cars,743501 
+Asia Total,Asia & Pacific Sub-Total,Japan,2012,Cars,8552583 
+Asia Total,Asia & Pacific Sub-Total,Korea,2012,Cars,4167089 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2012,Cars,509621 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2012,Cars,137424 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2012,Cars,26340 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2012,Cars,278043 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2012,Cars,957623 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2012,Cars,27292 
+Asia Total,Asia & Pacific Sub-Total,Australia,2012,Cars,189949 
+America Total,South America Sub-Total,Argentina,2012,Cars,497376 
+America Total,South America Sub-Total,Brazil,2012,Cars,2591348 
+America Total,South America Sub-Total,Chile,2012,Cars,-
+America Total,South America Sub-Total,Colombia,2012,Cars,93829 
+America Total,South America Sub-Total,Ecuador,2012,Cars,34544 
+America Total,South America Sub-Total,Venezuela,2012,Cars,53797 
+America Total,South America Sub-Total,Others,2012,Cars,3994 
+Asia Total,Middle East Sub-Total,Egypt,2012,Cars,53475 
+Asia Total,Middle East Sub-Total,Iran,2012,Cars,788390 
+Asia Total,Middle East Sub-Total,Turkey,2012,Cars,577296 
+Africa Total,Africa Sub-Total,Morocco,2012,Cars,103364 
+Africa Total,Africa Sub-Total,Nigeria,2012,Cars,-
+Africa Total,Africa Sub-Total,S. Africa Rep.,2012,Cars,248923 
+Africa Total,Africa Sub-Total,Others,2012,Cars,-
+World Total,World Total,World Total,2012,Cars,63470481 
+America Total,N. America Sub-Total,Canada,2012,CVs,1423066 
+America Total,N. America Sub-Total,U.S.A.,2012,CVs,6226752 
+America Total,N. America Sub-Total,Mexico,2012,CVs,1191807 
+Europe Total,EU Sub-Total,Austria,2012,CVs,19487 
+Europe Total,EU Sub-Total,Belgium,2012,CVs,34232 
+Europe Total,EU Sub-Total,Finland,2012,CVs,-
+Europe Total,EU Sub-Total,France,2012,CVs,327439 
+Europe Total,EU Sub-Total,Germany,2012,CVs,409012 
+Europe Total,EU Sub-Total,Italy,2012,CVs,274951 
+Europe Total,EU Sub-Total,Netherlands,2012,CVs,65754 
+Europe Total,EU Sub-Total,Portugal,2012,CVs,47826 
+Europe Total,EU Sub-Total,Spain,2012,CVs,439499 
+Europe Total,EU Sub-Total,Sweden,2012,CVs,37500 
+Europe Total,EU Sub-Total,U.K.,2012,CVs,112039 
+Europe Total,EU Sub-Total,Czech Rep.,2012,CVs,7164 
+Europe Total,EU Sub-Total,Hungary,2012,CVs,2400 
+Europe Total,EU Sub-Total,Poland,2012,CVs,110796 
+Europe Total,EU Sub-Total,Romania,2012,CVs,11209 
+Europe Total,EU Sub-Total,Slovak Rep.,2012,CVs,-
+Europe Total,EU Sub-Total,Slovenia,2012,CVs,-
+Europe Total,Other Europe Sub-Total,Russia,2012,CVs,263383 
+Europe Total,Other Europe Sub-Total,Serbia,2012,CVs,233 
+Europe Total,Other Europe Sub-Total,Ukraine,2012,CVs,6651 
+Europe Total,Other Europe Sub-Total,Uzbekistan,2012,CVs,25280 
+Europe Total,Other Europe Sub-Total,Others,2012,CVs,27867 
+Asia Total,Asia & Pacific Sub-Total,China,2012,CVs,3748150 
+Asia Total,Asia & Pacific Sub-Total,India,2012,CVs,879873 
+Asia Total,Asia & Pacific Sub-Total,Indonesia,2012,CVs,322056 
+Asia Total,Asia & Pacific Sub-Total,Japan,2012,CVs,1388574 
+Asia Total,Asia & Pacific Sub-Total,Korea,2012,CVs,394677 
+Asia Total,Asia & Pacific Sub-Total,Malaysia,2012,CVs,59999 
+Asia Total,Asia & Pacific Sub-Total,Pakistan,2012,CVs,22247 
+Asia Total,Asia & Pacific Sub-Total,Philippines,2012,CVs,49073 
+Asia Total,Asia & Pacific Sub-Total,Taiwan,2012,CVs,60995 
+Asia Total,Asia & Pacific Sub-Total,Thailand,2012,CVs,1496094 
+Asia Total,Asia & Pacific Sub-Total,Vietnam,2012,CVs,53480 
+Asia Total,Asia & Pacific Sub-Total,Australia,2012,CVs,31275 
+America Total,South America Sub-Total,Argentina,2012,CVs,267119 
+America Total,South America Sub-Total,Brazil,2012,CVs,839256 
+America Total,South America Sub-Total,Chile,2012,CVs,-
+America Total,South America Sub-Total,Colombia,2012,CVs,56102 
+America Total,South America Sub-Total,Ecuador,2012,CVs,45072 
+America Total,South America Sub-Total,Venezuela,2012,CVs,50286 
+America Total,South America Sub-Total,Others,2012,CVs,3094 
+Asia Total,Middle East Sub-Total,Egypt,2012,CVs,34421 
+Asia Total,Middle East Sub-Total,Iran,2012,CVs,132990 
+Asia Total,Middle East Sub-Total,Turkey,2012,CVs,495682 
+Africa Total,Africa Sub-Total,Morocco,2012,CVs,5379 
+Africa Total,Africa Sub-Total,Nigeria,2012,CVs,-
+Africa Total,Africa Sub-Total,S. Africa Rep.,2012,CVs,255252 
+Africa Total,Africa Sub-Total,Others,2012,CVs,-
+World Total,World Total,World Total,2012,CVs,21755493 
